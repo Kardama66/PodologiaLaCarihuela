@@ -1,0 +1,365 @@
+{
+  "team": {
+    "section_title": "Treffen Sie unser Team",
+    "section_description": "Wir sind ein Team von engagierten Fachleuten, die zusammenarbeiten, um hochwertige Pflege und Dienstleistungen anzubieten. Lernen Sie die Experten kennen, die Sie auf Ihrem Weg zu mehr Gesundheit und Wohlbefinden unterstützen.",
+    "member1": {
+      "name": "Desirée González Bossaers",
+      "title": "Direktorin & Podologin",
+      "description": "Dr. Desirée González Bossaers studierte Fußpflege an der Universität von Málaga, wo sie 2013 ihren Abschluss machte. Sowohl während als auch nach ihrer Ausbildung spezialisierte sie sich auf die Fußchirurgie und absolvierte verschiedene Zusatzkurse, um sich in verschiedenen Bereichen weiterzubilden, darunter die Versorgung diabetischer Füße, Infiltrationen, Prp-Behandlungen und Kinderbehandlungen."
+    },
+    "member2": {
+      "name": "Olga Golovacheva",
+      "title": "Physiotherapeutin",
+      "description": "Hallo. Mein Name ist Olga Golovacheva, ich komme ursprünglich aus Russland und bin Physiotherapeutin. Ich habe meinen Abschluss an der Universität von Malaga gemacht und mich auf neurologische Physiotherapie spezialisiert. Ich liebe meinen Beruf, denn Rehabilitation und Physiotherapie sind nicht nur eine Behandlung für die Patienten, sondern auch eine Möglichkeit, den Patienten zu helfen und sie zu ermutigen, sich auf körperlicher, physiologischer und sozialer Ebene zu erholen."
+    },
+    "member3": {
+      "name": "Berta Ramírez",
+      "title": "Krankenschwester",
+      "description": "Hallo zusammen, mein Name ist Berta Ramirez und ich bin Krankenschwester. Ich habe mein Studium an der Universität von Granada abgeschlossen und ein Jahr später bin ich in die Dermoesthetics Nursing eingestiegen. Mein Ziel ist es, mich um Ihre Pflegebedürfnisse zu kümmern und das Aussehen Ihrer Haut auf ausgewogene Weise zu verbessern. Ich freue mich darauf, Ihnen meine persönlichen Dienstleistungen anzubieten, Ihre Fragen und Zweifel zu klären und Ihnen zu helfen, ein bisschen glücklicher zu sein."
+    },
+    "member4": {
+      "name": "Leonor Buitrago",
+      "title": "Logopädin",
+      "description": "Hallo! Mein Name ist Leonor Buitrago und ich bin Logopädin. Ich habe an der Fakultät von Málaga studiert und übe diesen wunderbaren Beruf seit 15 Jahren aus. Ich bin spezialisiert auf Kommunikations-, Sprach-, Sprech- und Stimmstörungen sowie auf Schluckstörungen. Was mir an meiner Arbeit am meisten Spaß macht, ist zu sehen, wie sich die Situation meiner Patienten verbessert, und die persönliche Bindung, die zu jedem von ihnen entsteht."
+    }
+  },
+  "services": {
+    "section_title": "Unsere Dienstleistungen",
+    "section_description": "Wir bieten eine breite Palette spezialisierter Dienstleistungen an, um Ihren gesundheitlichen Bedürfnissen gerecht zu werden. Nachfolgend finden Sie einen Überblick über die einzelnen Fachgebiete und die dort angebotenen Leistungen.",
+    "podology": {
+      "title": "Podologie",
+      "description": "Die Podologie konzentriert sich auf die Pflege und Behandlung der Füße und bietet Dienstleistungen zur Behandlung von Erkrankungen wie Hühneraugen, harter Haut und Warzen an. Unsere Spezialisten sorgen dafür, dass Ihre Füße gesund sind und gut gepflegt werden."
+    },
+    "nursing": {
+      "title": "Krankenpflege",
+      "description": "Unsere Pflegedienstleistungen umfassen ein breites Spektrum an Pflege, darunter Wundversorgung, Blutentnahme, Injektionen und dermoästhetische Behandlungen. Wir sind hier, um Ihnen das höchste Niveau an Pflege und Unterstützung zu bieten."
+    },
+    "physiotherapy": {
+      "title": "Krankengymnastik",
+      "description": "Physiotherapie ist für die Rehabilitation, die Schmerzbehandlung und die Genesung nach Verletzungen unerlässlich. Wir bieten verschiedene Behandlungen wie manuelle Therapie, Bewegungstherapie und Neurorehabilitation an."
+    },
+    "logopedia": {
+      "title": "Logopedia",
+      "description": "Logopedia konzentriert sich auf die Diagnose und Behandlung von Sprech- und Sprachstörungen. Unser Angebot umfasst Therapien für Aphasie, kognitive Defizite und pädiatrische Sprachentwicklung."
+    }
+  },
+  "reviews": {
+    "section_title": "Hören Sie, was unsere Kunden über uns zu sagen haben",
+    "section_description": "Die Zufriedenheit unserer Kunden ist unsere Priorität. Sehen Sie sich einige ihrer Erfahrungen an!"
+  },
+
+  "hero": {
+    "title": "Podologie und mehr in La Carihuela",
+    "description": "Unsere Dienstleistungen in den Bereichen Podologie, Physiotherapie, Krankenpflege, Logopädie und mehr. Kümmern Sie sich mit uns um Ihre Gesundheit!"
+  },
+  "home_services": {
+    "section_title": "Unsere Dienstleistungen",
+    "service1": {
+      "name": "Podologie",
+      "description": "Spezialisierte Pflege für Ihre Füße, Prävention und Behandlung aller Arten von Problemen."
+    },
+    "service2": {
+      "name": "Krankenpflege",
+      "description": "Professionelle Krankenpflege zur Verbesserung des Wohlbefindens"
+    },
+    "service3": {
+      "name": "Physiotherapie",
+      "description": "Verbesserung der Beweglichkeit und Kraft durch gezielte physiotherapeutische Behandlungen."
+    },
+    "service4": {
+      "name": "Logopädie",
+      "description": "Hilfe bei Kommunikationsfähigkeiten und -störungen"
+    }
+  },
+  "contact": {
+    "section_title": "Kontakt aufnehmen",
+    "section_description": "Wir sind für Sie da! Kontaktieren Sie uns für Anfragen oder Termine.",
+    "info_title": "Kontaktinformationen",
+    "phone1": "Telefon 1:",
+    "phone2": "Telefon 2: ",
+    "email": "E-Mail: ",
+    "address": "Adresse: "
+  },
+
+  "podiatryServices": {
+    "overview": {
+      "title": "Podiatrie-Dienstleistungen",
+      "description": "Wir bieten eine Vielzahl von podologischen Dienstleistungen an, um Ihnen zu helfen, Ihre Füße gesund zu erhalten und alle Fußprobleme zu überwinden."
+    },
+    "services": {
+      "service1": {
+        "title": "Fußpflege",
+        "description": "Fußpflege, um häufige Fußprobleme zu behandeln und die richtige Pflege zu gewährleisten.",
+        "corns": {
+          "title": "Hühneraugen",
+          "description": "Ein Problem, das durch die Ansammlung von Keratin durch Überdruck am Fuß oder durch Reibung verursacht wird, und sie können ziemlich tief sein. Sie treten normalerweise an der Fußsohle oder an den Zehen auf. Die Behandlung besteht darin, sie zu entfernen."
+        },
+        "hardSkin": {
+          "title": "Harte Haut",
+          "description": "Dies ist eine Hauterkrankung, die durch eine Verdickung der Haut aufgrund einer übermäßigen Menge an Keratin verursacht wird. Sie entsteht an den Stellen des Fußes, die beim Gehen am stärksten belastet werden. An den Fersen können sich bei mangelnder Pflege tiefe und schmerzhafte Risse bilden, die nur schwer zu beseitigen sind. Die Behandlung beruht auf der Entfernung der Risse, der regelmäßigen Hydratation der Füße, dem richtigen Schuhwerk und der möglichen Verwendung von Einlagen."
+        },
+        "verrucae": {
+          "title": "Verrucae",
+          "description": "Verursacht durch das HPV (Humanes Papillomavirus). Der Virus dringt in die Haut ein und verursacht eine runde Wunde, die sehr schmerzhaft ist, wenn man Druck darauf ausübt. Diese Krankheit tritt bei Kindern häufiger auf als bei Erwachsenen und erfordert eine kontinuierliche professionelle Behandlung, um sie loszuwerden."
+        },
+        "painfulIngrowingNails": {
+          "title": "Schmerzhafte und eingewachsene Nägel",
+          "description": "Ein Zustand, der Schmerzen verursacht, wenn die Nägel gegen die Haut drücken, oft aufgrund von engen Schuhen oder falschem Schneiden der Nägel."
+        }
+      },
+      "service2": {
+        "title": "Nagelbehandlungen"
+      },
+      "service2_1": {
+        "title": "Nagelbehandlungen",
+        "description": "Eingewachsene Zehennägel, ein Zustand, der Schmerzen verursacht, wenn der Nagel auf die Haut drückt. Es kann verschiedene Ursachen haben, z. B. das Tragen von zu kleinen Schuhen, eine genetische Fehlbildung des Nagels oder falsch geschnittene Nägel. Die Behandlung besteht aus einer einfachen Operation, die in der Klinik unter örtlicher Betäubung ambulant durchgeführt wird."
+      },
+      "service2_2": {
+        "title": "Nagelablation",
+        "description": "Hammerzehen. Deformitäten der Zehen, die Schmerzen und Unbehagen verursachen können. Mit einer einfachen Technik werden die Zehen in eine möglichst bequeme Position gebracht."
+      },
+      "service2_3": {
+        "title": "Hallux Abductus Valgus",
+        "description": "Fehlstellung des großen Zehs, auch bekannt als Ballenzeh. Es handelt sich um einen Eingriff, der den Zeh in die richtige Position bringt, um das Gehen zu erleichtern."
+      },
+      "service3": {
+        "title": "Orthopodologie",
+        "description": "Spezialisierte Dienstleistungen zur Verbesserung der Fußgesundheit",
+        "customisedInsoles": {
+          "title": "Maßgeschneiderte Einlegesohlen",
+          "description": "Maßgeschneiderte Einlegesohlen zur Verbesserung des Fußkomforts und der Unterstützung.",
+          "list": [
+            "Fuß- und Knöchelverstauchungen und Sportverletzungen",
+            "Fußsporn",
+            "Fußgewölbeverspannungen, Plantarfasziitis und Schleimbeutelentzündungen",
+            "Metatarsalgie (Ballenschmerzen), Neurome und Kapselentzündungen",
+            "Plattfüße und hohe Fußspitzen"
+          ]
+        },
+        "siliconeProtheses": {
+          "title": "Silikonprothesen",
+          "description": "Sie können bei der Beratung nach Maß angefertigt werden und dienen dazu, die Zehen richtig auszurichten. Ihr Einsatz verhindert Hühneraugen und Reibung, die beim Tragen von Schuhen Schmerzen verursachen können. Ein gutes Beispiel ist ihr Einsatz bei Fußdeformitäten und Ballenzehen."
+        }
+      },
+      "service4": {
+        "title": "Physikalische Podologie",
+        "description": [
+          "- Anlegen von preventiven Verbänden",
+          "- Anlegen von neuromuskulären Verbänden",
+          "Dies verbessert auf nicht-invasive Weise:",
+          "- Fuß- und Knöchelverstauchungen und Sportverletzungen",
+          "Fußsporn, Verspannungen der Fußsohle, Plantarfasziitis und Schleimbeutelentzündung",
+          "Metatarsalgie, Neurome und Kapsulitis"
+        ]
+      },
+      "service5": {
+        "title": "Infiltrationen von Kortikoiden und Kollagen",
+        "description": "Diese Art von Infiltrationen wird bei Patienten mit schmerzhaften Fußbeschwerden verabreicht. Sie werden vor allem zur Linderung von Plantarfasziitis, Kapselentzündungen und Neuromen, eingeklemmten Nerven und Muskelentzündungen sowie anderen Erkrankungen eingesetzt."
+      },
+      "service6": {
+        "title": "Pediatric Podiatry",
+        "description": "Ein Zweig der Fußpflege, in dem mögliche Erkrankungen behandelt werden, die im Säuglingsalter auftreten können. Diese Phase beginnt mit dem Krabbeln und endet im Erwachsenenalter, wenn der Fuß aufhört zu wachsen. Eine korrekte Beurteilung ist wichtig, da dies der beste Zeitpunkt ist, um notwendige Korrekturen vorzunehmen."
+      },
+      "service7": {
+        "title": "Sportpodiatrie",
+        "description": "Die Belastung des Fußes bei sportlichen Aktivitäten ist größer als bei normalen, alltäglichen Aktivitäten. Dies kann Auswirkungen auf den gesamten Körper haben, insbesondere auf die Gelenke und Muskeln. Wir empfehlen daher eine gute biomechanische Diagnose, um Verletzungen vorzubeugen und bestehende zu behandeln."
+      },
+      "service8": {
+        "title": "Diabetische Fußpflege",
+        "description": "Diabetiker gehören zu einer erhöhten Risikogruppe. Sie haben eine mangelhafte Durchblutung und eine fehlende Sensibilität, deshalb sollten sie regelmäßig zur Kontrolle zum Fußpfleger gehen, um Veränderungen zu beobachten."
+      },
+      "service8_5": {
+        "title": "Nach 5 Tagen"
+      },
+      "service8_10": {
+        "title": "Nach 10 Tagen"
+      },
+      "service9": {
+        "title": "Rheumatische Fußpflege",
+        "description": "Die rheumatoide Arthritis verursacht eine Abnutzung der Gelenke mit Entzündungen in diesen Bereichen. Diese Abnutzung verursacht Schmerzen und Probleme beim Gehen. In unserer Klinik bieten wir Behandlungen an, um diese Symptome zu lindern und die Lebensqualität der Betroffenen zu verbessern."
+      },
+      "service10": {
+        "title": "Fußreflexzonenmassage",
+        "description": "Die Fußmassage wurde bereits vor 5000 Jahren im alten Ägypten zur Heilung von Krankheiten und zur Entspannung eingesetzt. Die Fußreflexzonenmassage ist eine ergänzende Therapie, die auf der Wissenschaft der Akupressurpunkte an den Füßen beruht. Sie kann zusammen mit jeder medizinischen Behandlung oder als gute Möglichkeit zur Erhaltung der Gesundheit praktiziert werden und kann viele Gesundheitszustände wie Rücken-, Lungen-, Darm- und Leberprobleme verbessern."
+      }
+    }
+  },
+
+  "logopedia": {
+    "title": "Dienstleistungen für Sprach- und Sprechstörungen",
+    "description": "Unsere umfassenden logopädischen Leistungen sind darauf ausgerichtet, Menschen mit einer Vielzahl von Kommunikationsproblemen zu unterstützen. Von der Behandlung von Sprach- und Sprechstörungen bis hin zu Schluckproblemen bieten wir maßgeschneiderte und evidenzbasierte Behandlungspläne an, die auf die individuellen Bedürfnisse jedes einzelnen Klienten abgestimmt sind und eine bessere Kommunikation und Lebensqualität fördern.",
+    "services": {
+      "service1": {
+        "title": "Lese- und Schreibstörung",
+        "description": "Spezialisierte Therapie zur Behebung von Schwierigkeiten beim Leseverständnis, beim schriftlichen Ausdruck und bei anderen sprachbezogenen Fähigkeiten. Unsere Programme setzen strukturierte und forschungsgestützte Techniken ein, um die Lese- und Schreibfähigkeiten zu verbessern, das Selbstvertrauen zu stärken und den akademischen Erfolg zu fördern."
+      },
+      "service2": {
+        "title": "Aphasie",
+        "description": "Umfassende Behandlung von Sprachstörungen als Folge von Hirnverletzungen, wie z. B. Schlaganfällen. Unsere Therapien zielen darauf ab, das Sprechen wiederherzustellen, das Verstehen zu verbessern und die allgemeinen Kommunikationsfähigkeiten durch gezielte Übungen und adaptive Strategien zu steigern, die auf die Bedürfnisse jedes Einzelnen zugeschnitten sind."
+      },
+      "service3": {
+        "title": "Atypisches Schlucken",
+        "description": "Therapien zur Behandlung von Schluckstörungen, damit die Betroffenen sicher und bequem essen und trinken können. Wir bieten personalisierte Programme an, die Untersuchungen, Rehabilitationstechniken und Strategien zur langfristigen Verbesserung der Schluckfunktion umfassen."
+      },
+      "service4": {
+        "title": "Myofunktionelle Therapie",
+        "description": "Ein spezieller Ansatz zur Verbesserung der Mund- und Gesichtsmuskelfunktion. Diese Therapie befasst sich mit Problemen wie falscher Zungenhaltung, falschen Schluckmustern und Sprachproblemen, um eine optimale orale Entwicklung und allgemeine Kommunikation zu unterstützen."
+      },
+      "service5": {
+        "title": "Pädiatrische Sprachtherapie",
+        "description": "Speziell auf Kinder ausgerichtete logopädische Dienste, die sich auf die Verbesserung der Sprachklarheit, des Sprachverständnisses und der Kommunikationsfähigkeiten konzentrieren. Unsere kindgerechten Methoden zielen darauf ab, Entwicklungsverzögerungen zu beheben und jungen Menschen wichtige Kommunikationsfähigkeiten zu vermitteln."
+      },
+      "service6": {
+        "title": "Kognitive Defizite",
+        "description": "Maßgeschneiderte Therapien, um Menschen mit kognitiven Beeinträchtigungen bei der Verbesserung ihrer Kommunikations- und Sprachfunktionen zu unterstützen. Wir setzen evidenzbasierte Interventionen ein, um Gedächtnis, Aufmerksamkeit und Problemlösungsfähigkeiten zu stärken und so eine bessere kognitive und kommunikative Gesamtleistung zu fördern."
+      }
+    }
+  },
+  "physiotherapy": {
+    "title": "Dienstleistungen der Physiotherapie",
+    "description": "Unsere physiotherapeutischen Leistungen zielen darauf ab, die Genesung zu unterstützen, Schmerzen zu lindern und die Mobilität durch evidenzbasierte Verfahren zu verbessern. Jede Behandlung ist auf die individuellen Bedürfnisse unserer Kunden zugeschnitten und hilft ihnen, optimale körperliche Gesundheit und Wohlbefinden zu erreichen.",
+    "services": {
+      "service1": {
+        "title": "Behandlung der Wirbelsäule",
+        "description": "Umfassende Therapien zur Linderung von Rückenschmerzen, Verbesserung der Wirbelsäulenausrichtung und Wiederherstellung der Beweglichkeit. Unsere Behandlungen sind auf Erkrankungen wie Bandscheibenvorfälle, chronische Rückenschmerzen und Haltungsschäden ausgerichtet."
+      },
+      "manualTherapy": {
+        "title": "Manuelle Therapie",
+        "massage": {
+          "title": "Massage",
+          "description": "Therapeutische Massagetechniken, um Muskelverspannungen zu lösen, Stress abzubauen und die natürlichen Heilungsprozesse des Körpers durch Verbesserung der Blutzirkulation und Flexibilität zu fördern."
+        },
+        "mobilizations": {
+          "title": "Mobilisationen",
+          "description": "Sanfte Gelenkmobilisierungstechniken, die darauf abzielen, die Funktionalität der Gelenke wiederherzustellen, Schmerzen zu lindern und die allgemeine Mobilität und den Bewegungsumfang zu verbessern."
+        },
+        "neuroMuscularTechnique": {
+          "title": "Neuro-Muskuläre Technik",
+          "description": "Ein gezielter Ansatz, um muskuläre Dysbalancen zu beheben, nervenbedingte Einschränkungen zu reduzieren und die neuromuskuläre Koordination für eine bessere körperliche Leistung zu verbessern."
+        }
+      },
+      "service3": {
+        "title": "Behandlung von Sehnenentzündungen und Arthrose",
+        "description": "Spezialisierte Behandlungen zur Behandlung von Entzündungen, Linderung von Schmerzen und Wiederherstellung der Gelenkfunktion. Diese Therapien sind darauf ausgerichtet, den Patienten zu helfen, ihre Mobilität wiederzuerlangen und Beschwerden bei täglichen Aktivitäten zu reduzieren."
+      },
+      "service4": {
+        "title": "Gangrehabilitation",
+        "description": "Individualisierte Therapien zur Verbesserung des Gehverhaltens, zur Förderung des Gleichgewichts und zur Wiederherstellung des Vertrauens in die Mobilität. Dieser Service ist besonders für Personen geeignet, die sich von Verletzungen oder neurologischen Erkrankungen erholen."
+      },
+      "service5": {
+        "title": "Rehabilitation feinmotorischer Fähigkeiten",
+        "description": "Rehabilitationsprogramme zur Verbesserung der Hand- und Fingerkoordination, Geschicklichkeit und Kraft. Ideal für Personen, die sich von Verletzungen oder neurologischen Erkrankungen erholen, die die feinmotorischen Fähigkeiten beeinträchtigen."
+      },
+      "service6": {
+        "title": "Neuro-Rehabilitation",
+        "description": "Umfassende Rehabilitation für Menschen mit neurologischen Erkrankungen wie Schlaganfall, Multipler Sklerose oder Parkinson-Krankheit. Diese Therapien zielen darauf ab, die Mobilität, die Kraft und die allgemeine Lebensqualität zu verbessern."
+      },
+      "service7": {
+        "title": "Physiotherapie des Kiefergelenks",
+        "description": "Spezialisierte Behandlungen für Kiefergelenkserkrankungen mit dem Ziel der Schmerzlinderung, der Verbesserung der Kieferfunktion und der Steigerung der Lebensqualität für Menschen, die unter Kiefergelenkserkrankungen leiden."
+      },
+      "service8": {
+        "title": "Bewegungstherapie",
+        "description": "Personalisierte Übungsprogramme zur Unterstützung der Genesung, zum Aufbau von Kraft und zur Verbesserung der Flexibilität. Diese Pläne sind auf die individuellen Ziele und körperlichen Fähigkeiten zugeschnitten."
+      },
+      "service9": {
+        "title": "Pädiatrische Physiotherapie",
+        "description": "Spezialisierte Therapien zur Förderung der körperlichen Entwicklung und Mobilität von Kindern. Diese Leistungen betreffen eine Vielzahl von Erkrankungen und fördern ein gesundes Wachstum und verbesserte motorische Fähigkeiten."
+      },
+      "service10": {
+        "title": "Beckenboden-Physiotherapie",
+        "description": "Gezielte Behandlungen zur Verbesserung der Gesundheit des Beckenbodens, die Probleme wie Inkontinenz, Beckenschmerzen und die Erholung nach der Geburt durch maßgeschneiderte Übungen und Techniken behandeln."
+      }
+    }
+  },
+
+  "medicalAestheticServices": {
+    "overview": {
+      "title": "Pflegeleistungen",
+      "description": "Unsere Pflegedienstleistungen sind darauf ausgerichtet, die Hautgesundheit und das allgemeine Erscheinungsbild durch fortschrittliche, evidenzbasierte Behandlungen zu verbessern. Wir bieten individuelle Lösungen für ein breites Spektrum an ästhetischen und dermatologischen Problemen, um optimale Ergebnisse und Kundenzufriedenheit zu gewährleisten."
+    },
+    "services": {
+      "service1": {
+        "title": "Blutentnahme und Analyse",
+        "description": "Präzise Diagnoseverfahren, die wichtige Erkenntnisse über die Gesundheit liefern. Diese Dienstleistungen helfen bei der Früherkennung, überwachen laufende Erkrankungen und unterstützen die Erstellung präziser Behandlungspläne für bessere Ergebnisse."
+      },
+      "service2": {
+        "title": "Wundversorgung",
+        "description": "Spezialisierte Behandlungen zur Förderung einer schnellen und effektiven Wundheilung. Unsere maßgeschneiderten Ansätze minimieren das Infektionsrisiko und unterstützen eine optimale Gewebereparatur und -heilung."
+      },
+      "service3": {
+        "title": "Nahtmaterial",
+        "description": "Fortschrittliche Wundverschlusstechniken, die eine effektive Heilung gewährleisten und die Narbenbildung minimieren. Unsere professionellen Methoden bieten sowohl funktionelle als auch ästhetische Vorteile für verschiedene Verletzungen."
+      },
+      "service4": {
+        "title": "Dermoesthetische Behandlungen",
+        "description": "Modernste Hautverjüngungsbehandlungen zur Verbesserung der Hautstruktur, des Hauttons und des Aussehens. Diese Behandlungen zielen darauf ab, die natürliche Schönheit zu verbessern und die jugendliche Vitalität wiederherzustellen.",
+        "injectables": {
+          "title": "Injektionsmittel",
+          "description": "Nicht-invasive Verfahren wie Botox und Filler, die Falten effektiv reduzieren, die Gesichtskonturen verbessern und für ein erfrischtes Aussehen sorgen.",
+          "before": "Vor der Behandlung: ",
+          "after": "Nach 4 Tagen: ",
+          "after2": "Nach 1 Woche: "
+        },
+        "lipFiller": {
+          "title": "Lippenfüller",
+          "description": "Maßgeschneiderte Behandlungen zur Verbesserung von Volumen, Form und Symmetrie der Lippen mit natürlichen und lang anhaltenden Ergebnissen.",
+          "woman1": "Vergleich vor und nach der Behandlung: "
+        },
+        "skinBooster": {
+          "title": "Hautverstärker",
+          "description": "Innovative Feuchtigkeitsbehandlungen, die die Elastizität, Glätte und Ausstrahlung der Haut verbessern. Perfekt, um einen strahlenden und verjüngten Teint zu erhalten.",
+          "before": "Vor der Behandlung: ",
+          "after": "Nach der Behandlung: "
+        },
+        "mesotherapy": {
+          "title": "Mesotherapie",
+          "description": "Ein verjüngendes Verfahren mit nährstoffreichen Injektionen, die die Haut straffen, hydratisieren und revitalisieren, was zu einem jugendlicheren und erfrischten Aussehen führt."
+        },
+        "chemicalPeels": {
+          "title": "Chemische Peelings",
+          "description": "Wirksame Peeling-Behandlungen, die auf Hautunreinheiten wie ungleichmäßige Textur, Hyperpigmentierung und Aknenarben abzielen und die Haut glatter und strahlender machen."
+        },
+        "growthFactor": {
+          "title": "Growth Factor",
+          "description": "Fortgeschrittene Behandlungen, die die Zellreparatur und -regeneration stimulieren und so die Elastizität, Textur und allgemeine Vitalität der Haut verbessern - für ein jugendliches Strahlen."
+        }
+      }
+    }
+  },
+
+  "header": {
+    "home": "Zuhause",
+    "services": "Dienste",
+    "podology": "Podologie",
+    "nursing": "Krankenpflege",
+    "physiotherapy": "Physiotherapie",
+    "logopedia": "Logopädie",
+    "team": "Team",
+    "contact": "Kontakt",
+    "reviews": "Bewertungen",
+    "language": "Sprache",
+    "english": "Englisch",
+    "spanish": "Spanisch",
+    "french": "Französisch",
+    "german": "Deutsch",
+    "dutch": "Niederländisch"
+  },
+
+  "footer": {
+    "menu": "Menü",
+    "home": "Home",
+    "services": "Dienstleistungen",
+    "team": "Team",
+    "contact": "Kontakt",
+    "reviews": "Bewertungen",
+    "contactUs": "Contact Us",
+    "followUs": "Folgen Sie uns",
+    "copyright": "© 2024 Podologia La Carihuela. All rights reserved."
+  },
+
+  "contactsection": {
+    "description": "Sie können sich gerne für einen Termin melden! ",
+    "contactus": " Kontaktieren Sie uns! "
+  }
+}

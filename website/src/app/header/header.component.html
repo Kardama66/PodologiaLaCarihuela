@@ -1,0 +1,116 @@
+<header class="bg-blue-600 p-4 shadow-md">
+    <!-- Navigation Container -->
+    <div class="max-w-7xl mx-auto flex justify-between items-center">
+      
+      <!-- Hamburger Icon for Mobile (Visible on small screens) -->
+      <button class="block md:hidden text-white" (click)="toggleMenu()">
+        <i class="fas fa-bars text-2xl"></i> <!-- Hamburger Icon -->
+      </button>
+  
+      <!-- Logo or Title -->
+      <div class="text-white font-bold text-xl flex items-center space-x-2">
+        <div class="md:hidden">
+          <span class="fi fi-{{ currentLanguage }} text-xl mr-2"></span> <!-- Mobile Language Icon -->
+        </div>
+        <span>Podology Clinic <span class="italic">"La Carihuela"</span></span>
+      </div>
+  
+      <!-- Desktop Navigation Menu (Left Side) -->
+      <nav class="hidden md:flex space-x-6 text-white">
+        <a routerLink="/" routerLinkActive="text-gray-300" class="hover:text-gray-300 transition-colors duration-200 px-4 py-3">Home</a>
+        <a routerLink="/contact" routerLinkActive="text-gray-300" class="hover:text-gray-300 transition-colors duration-200 px-4 py-3">Contact</a>
+        <a routerLink="/team" routerLinkActive="text-gray-300" class="hover:text-gray-300 transition-colors duration-200 px-4 py-3">Team</a>
+  
+        <!-- Services Dropdown -->
+        <div class="relative group">
+          <button class="hover:text-gray-300 focus:outline-none transition-colors duration-200 px-4 py-3">
+            Services
+          </button>
+          <div class="absolute hidden group-hover:block bg-blue-700 text-white rounded-lg shadow-lg w-48 left-1/2 transform -translate-x-1/2 mt-2 p-2">
+            <a routerLink="/services/podology" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Podology</a>
+            <a routerLink="/services/nursing" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Nursing</a>
+            <a routerLink="/services/psychotherapy" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Psychotherapy</a>
+            <a routerLink="/services/logopedia" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Logopedia</a>
+          </div>
+        </div>
+      </nav>
+  
+      <!-- Language Dropdown (Right Side on Desktop) -->
+      <div class="relative group hidden md:flex">
+        <button class="hover:text-gray-300 focus:outline-none transition-colors duration-200 px-6 py-3 flex items-center space-x-2">
+          <span class="flag-icon flag-icon-{{ currentLanguage }} text-xl mr-2"></span>
+          <i class="fi fi-angle-down text-lg"></i>
+        </button>
+        <div class="absolute hidden group-hover:block bg-blue-700 text-white rounded-lg shadow-lg w-48 left-1/2 transform -translate-x-1/2 mt-2 p-2">
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-en mr-2"></span> English
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-es mr-2"></span> Español
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-fr mr-2"></span> Français
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-de mr-2"></span> Deutsch
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-nl mr-2"></span> Nederlands
+          </a>
+        </div>
+      </div>
+    </div>
+  
+    <!-- Mobile Menu (Toggleable) -->
+    <div *ngIf="menuOpen" class="md:hidden bg-blue-700 text-white p-4 w-1/2 fixed left-0 top-0 bottom-0">
+      <!-- Menu items with consistent spacing -->
+      <a routerLink="/" routerLinkActive="text-gray-300" class="block px-4 py-2">Home</a>
+      <a routerLink="/contact" routerLinkActive="text-gray-300" class="block px-4 py-2">Contact</a>
+      <a routerLink="/team" routerLinkActive="text-gray-300" class="block px-4 py-2">Team</a>
+  
+      <!-- Services Dropdown for Mobile -->
+      <div class="relative group mt-4">
+        <button class="hover:text-gray-300 focus:outline-none transition-colors duration-200 px-4 py-2 w-full text-left" (click)="toggleServicesDropdown()">
+          Services
+          <i class="fi fi-angle-down text-lg ml-2"></i>
+        </button>
+  
+        <!-- Services Dropdown (Visibility controlled by mobileServicesDropdownOpen) -->
+        <div *ngIf="mobileServicesDropdownOpen" class="absolute bg-blue-700 text-white rounded-lg shadow-lg w-full left-1/2 transform -translate-x-1/2 mt-2 p-2">
+          <a routerLink="/services/podology" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Podology</a>
+          <a routerLink="/services/nursing" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Nursing</a>
+          <a routerLink="/services/psychotherapy" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Psychotherapy</a>
+          <a routerLink="/services/logopedia" routerLinkActive="hover:bg-blue-500" class="block px-4 py-2 hover:bg-blue-500">Logopedia</a>
+        </div>
+      </div>
+  
+      <!-- Language Dropdown for Mobile -->
+      <div class="relative group mt-4">
+        <button class="hover:text-gray-300 focus:outline-none transition-colors duration-200 px-4 py-2 flex items-center space-x-2 w-full text-left" (click)="toggleLanguageDropdown()">
+          <span class="flag-icon flag-icon-{{ currentLanguage }} text-xl mr-2"></span>
+          <i class="fi fi-angle-down text-lg"></i>
+        </button>
+  
+        <!-- Language Dropdown (Visibility controlled by mobileLanguageDropdownOpen) -->
+        <div *ngIf="mobileLanguageDropdownOpen" class="absolute bg-blue-700 text-white rounded-lg shadow-lg w-full left-1/2 transform -translate-x-1/2 mt-2 p-2">
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-en mr-2"></span> English
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-es mr-2"></span> Español
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-fr mr-2"></span> Français
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-de mr-2"></span> Deutsch
+          </a>
+          <a class="block px-4 py-2 hover:bg-blue-500">
+            <span class="flag-icon flag-icon-nl mr-2"></span> Nederlands
+          </a>
+        </div>
+      </div>
+    </div>
+  
+  </header>
+  

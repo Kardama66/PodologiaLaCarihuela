@@ -1,0 +1,147 @@
+/* General Styles for responsiveness */
+@media (max-width: 1024px) { /* Tablets and smaller screens */
+    /* Hero section */
+    .hero-title {
+      font-size: 2.5rem; /* Smaller font for tablets */
+    }
+  
+    .hero-description {
+      font-size: 1rem; /* Smaller description text */
+    }
+  
+    /* Services Section */
+    .services-title {
+      font-size: 1.25rem; /* Adjust service section title */
+    }
+  
+    .services-grid {
+      grid-template-columns: 1fr 1fr; /* Two columns instead of four */
+    }
+  
+    .service-item {
+      padding: 1rem; /* Adjust padding for smaller screens */
+    }
+  
+    .service-title {
+      font-size: 1.25rem; /* Smaller service titles */
+    }
+  
+    .service-description {
+      font-size: 1rem; /* Adjust description text size */
+    }
+  
+    /* FAQ Section */
+    .faq-title {
+      font-size: 1.5rem; /* Adjust FAQ title size */
+    }
+  
+    .faq-button {
+      font-size: 1rem; /* Smaller button text */
+    }
+  
+    .faq-answer {
+      font-size: 1rem; /* Adjust FAQ answer text size */
+    }
+  
+    /* Contact Section */
+    .contact-title {
+      font-size: 1.5rem; /* Smaller title for contact */
+    }
+  
+    .contact-description {
+      font-size: 1rem; /* Adjust contact description text size */
+    }
+  
+    .contact-grid {
+      grid-template-columns: 1fr; /* Single column grid */
+    }
+  }
+  
+  @media (max-width: 768px) { /* Mobile screens */
+    /* Hero section */
+    .hero-title {
+      font-size: 2rem; /* Even smaller for mobile */
+    }
+  
+    .hero-description {
+      font-size: 0.875rem; /* Smaller font for description */
+    }
+  
+    /* Services Section */
+    .services-title {
+      font-size: 1.125rem; /* Smaller service title */
+    }
+  
+    .services-grid {
+      grid-template-columns: 1fr; /* Single column for services */
+    }
+  
+    .service-item {
+      padding: 0.75rem; /* Adjust padding for mobile */
+    }
+  
+    .service-title {
+      font-size: 1rem; /* Smaller service title */
+    }
+  
+    .service-description {
+      font-size: 0.875rem; /* Smaller description text */
+    }
+  
+    /* FAQ Section */
+    .faq-title {
+      font-size: 1.25rem; /* Smaller FAQ title */
+    }
+  
+    .faq-button {
+      font-size: 1rem; /* Adjust FAQ button size */
+    }
+  
+    .faq-answer {
+      font-size: 0.875rem; /* Adjust FAQ answer size */
+    }
+  
+    /* Contact Section */
+    .contact-title {
+      font-size: 1.25rem; /* Smaller contact title */
+    }
+  
+    .contact-description {
+      font-size: 0.875rem; /* Adjust contact description font */
+    }
+  
+    .contact-grid {
+      grid-template-columns: 1fr; /* Single column grid */
+    }
+  }
+  /* Additional pure CSS for responsive text sizing */
+@media (max-width: 768px) {
+    .hero-title {
+      font-size: 3rem; /* Adjust title size for small screens */
+    }
+    .hero-description {
+      font-size: 1rem; /* Adjust description font size */
+    }
+    .service-card h3 {
+      font-size: 1.5rem;
+    }
+    .faq-title {
+      font-size: 2rem;
+    }
+    .faq-item button {
+      font-size: 1.5rem; /* Adjust FAQ question font size */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .hero-title {
+      font-size: 2.5rem;
+    }
+    .hero-description {
+      font-size: 0.9rem;
+    }
+    .service-card h3 {
+      font-size: 1.2rem;
+    }
+  }
+  

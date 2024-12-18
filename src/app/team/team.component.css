@@ -1,0 +1,59 @@
+.team-card {
+    display: flex;
+    flex-direction: column; /* Stack vertically on mobile */
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.team-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure image is responsive */
+.team-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* Styling for text */
+.team-card .text-lg {
+    font-size: 1.125rem; /* Default font size */
+}
+
+/* Media Query for mobile (max-width: 768px) */
+@media (max-width: 768px) {
+    .team-card {
+        flex-direction: column; /* Stack vertically on mobile */
+        padding: 1rem;
+    }
+
+    .team-card img {
+        width: 100%;
+        height: auto;
+    }
+
+    .team-card h3 {
+        font-size: 1.75rem;
+    }
+
+    .team-card h4 {
+        font-size: 1.25rem;
+    }
+
+    .team-card .text-lg {
+        font-size: 1rem; /* Smaller text for mobile */
+    }
+}
+
+/* Media Query for larger screens (min-width: 768px) */
+@media (min-width: 768px) {
+    .team-card {
+        flex-direction: row; /* Align side by side on desktop */
+    }
+}

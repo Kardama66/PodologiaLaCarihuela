@@ -1,0 +1,378 @@
+{
+
+      
+  "team" : {
+    "section_title" : "Rencontrez notre équipe",
+    "section_description" : "Nous sommes une équipe de professionnels dévoués qui travaillent ensemble pour fournir des soins et des services de haute qualité. Faites connaissance avec les experts qui vous aideront sur la voie d'une meilleure santé et d'un plus grand bien-être",
+    "member1" : {
+      "name" : "Desirée González Bossaers",
+      "title" : "Directrice et podologue",
+      "description" : "Le Dr Desirée González Bossaers a étudié la podologie à l'Université de Malaga, où elle a obtenu son diplôme en 2013. Pendant et après sa formation, elle s'est spécialisée dans la chirurgie du pied et a suivi plusieurs cours supplémentaires pour approfondir ses études dans différents domaines, notamment les soins des pieds diabétiques, les infiltrations, les traitements prp et les traitements pour enfants."
+    },
+    "member2" : {
+      "name" : "Olga Golovacheva",
+      "titre" : "Physiothérapeute",
+      "description" : "Bonjour. Je m'appelle Olga Golovacheva, je suis originaire de Russie et je suis physiothérapeute. J'ai obtenu mon diplôme à l'université de Malaga, avec une spécialisation en physiothérapie neurologique. J'aime ma profession car la rééducation et la physiothérapie ne sont pas seulement un traitement pour les patients, mais aussi une manière d'aider et d'encourager les patients à se rétablir au niveau physique, mais aussi physiologique et social."
+    },
+
+
+    "member3" : {
+      "name" : "Berta Ramírez",
+      "title" : "Infirmière",
+      "description" : "Bonjour à tous, je m'appelle Berta Ramirez et je suis infirmière. J'ai obtenu mon diplôme à l'Université de Grenade et, un an plus tard, je suis devenue infirmière en dermoesthétique. Mon objectif est de répondre à vos besoins en matière de soins et d'améliorer l'aspect de votre peau de manière équilibrée. Je suis très désireuse d'offrir mes services personnalisés, de pouvoir répondre à vos questions et à vos doutes et de vous aider à être un peu plus heureux."
+    },
+    "member4" : {
+      "name" : "Leonor Buitrago",
+      "title" : "Orthophoniste",
+      "description" : "Bonjour ! Je m'appelle Leonor Buitrago et je suis orthophoniste. Je suis diplômée de la Faculté de Malaga et j'exerce cette merveilleuse profession depuis 15 ans. Je suis spécialisée dans les troubles de la communication, du langage, de la parole et de la voix, ainsi que dans les troubles de la déglutition. Ce qui me plaît le plus dans mon travail, c'est de voir l'amélioration de mes patients et le lien personnel qui se crée avec chacun d'entre eux."
+    }
+  
+},
+"services" : {
+  "section_title" : "Nos services",
+  "section_description" : "Nous offrons une large gamme de services spécialisés pour répondre à vos besoins en matière de santé. Vous trouverez ci-dessous une vue d'ensemble de chaque domaine et explorerez les services offerts dans chacun d'entre eux",
+  "podology" : {
+    "title" : "Podologie",
+    "description" : "La podologie se concentre sur le soin et le traitement des pieds, offrant des services pour traiter des conditions telles que les cors, la peau dure et les verrues. Nos spécialistes veillent à ce que vos pieds soient sains et bien entretenus."
+  },
+  "nursing" : {
+    "title" : "Soins infirmiers",
+    "description" : "Nos services de soins infirmiers englobent un large éventail de soins, y compris le soin des plaies, les prélèvements sanguins, les produits injectables et les traitements dermoesthétiques. Nous sommes là pour vous apporter le plus haut niveau de soins et de soutien."
+  },
+  "physiothérapie" : {
+    "title" : "Physiothérapie",
+    "description" : "La physiothérapie est essentielle pour la rééducation, la gestion de la douleur et le rétablissement après une blessure. Nous proposons différents traitements tels que la thérapie manuelle, la thérapie par l'exercice et la neuroréhabilitation."
+  },
+  "logopedia" : {
+    "title" : "Logopedia",
+    "description" : "Logopedia se concentre sur le diagnostic et le traitement des troubles de la parole et du langage. Nos services comprennent la thérapie pour l'aphasie, les déficits cognitifs et le développement de la parole en pédiatrie."
+  }
+},
+
+
+   
+  "reviews" : {
+    "section_title" : "Écoutez ce que nos clients ont à dire sur nous",
+    "section_description" : "La satisfaction de nos clients est notre priorité. Découvrez quelques-unes de leurs expériences !"
+  },
+  
+  
+    "hero" : {
+      "title" : "Podologie et plus encore à La Carihuela",
+      "description" : "Nos services de podologie, de physiothérapie, d'infirmerie, d'orthophonie et autres. Prenez soin de votre santé avec nous !"
+    },
+    "home_services" : {
+      "section_title" : "Nos services",
+      "service1" : {
+        "name" : "Podologie",
+        "description" : "Soins spécialisés pour les pieds, prévention et traitement de tous types de problèmes"
+      },
+      "service2" : {
+        "name" : "Soins infirmiers",
+        "description" : "Fournir des soins infirmiers professionnels pour améliorer le bien-être"
+      },
+      "service3" : {
+        "name" : "Physiothérapie",
+        "description" : "Amélioration de la mobilité et de la force grâce à des traitements de physiothérapie ciblés."
+      },
+      "service4" : {
+        "name" : "Orthophonie",
+        "description" : "Aide à la communication et aux troubles de la communication"
+      }
+    },
+"contact" : {
+"section_title" : "Get in Touch",
+"section_description" : "Nous sommes là pour vous aider ! Contactez-nous pour toute demande de renseignements ou de rendez-vous",
+"info_title" : "Informations de contact",
+"phone1" : "Phone 1 :",
+"phone2" : "Téléphone 2 : ",
+"email" : "Email : ",
+"address" : "Adresse :  "
+},
+"podiatryServices" : {
+  "overview" : {
+    "title" : "Services de podologie",
+    "description" : "Nous fournissons une variété de services de podologie pour vous aider à maintenir des pieds en bonne santé et à surmonter tout problème de pied."
+  },
+"services" : {
+    "service1" : {
+      "title" : "Chiropodie",
+      "description" : "Services de podologie pour traiter les problèmes de pieds courants et assurer des soins appropriés",
+      "corns" : {
+        "title" : "Cors",
+        "description" : "Problème causé par l'accumulation de kératine à la suite d'une pression excessive sur le pied ou d'un frottement, et ils peuvent être assez profonds.Ils se trouvent normalement sur la plante du pied ou sur les orteils.Le traitement consiste à les enlever."
+      },
+"hardSkin" : {
+        "title" : "Peau dure",
+        "description" : "Il s'agit d'une affection cutanée causée par l'épaississement de la peau en raison d'une quantité excessive de kératine.Elle se développe sur les zones du pied les plus sollicitées lors de la marche.Sur les talons, par manque de soins, elle peut se transformer en fissures profondes et douloureuses, difficiles à éliminer.Le traitement repose sur son élimination, l'hydratation régulière des pieds, le port de chaussures adéquates et l'utilisation éventuelle de semelles orthopédiques."
+      },
+
+      "verrucae" : {
+        "title" : "Verrucae",
+        "description" : "Causée par le HPV (Human papilloma virus). Le virus pénètre dans la peau et provoque une plaie ronde, très douloureuse lorsqu'on exerce une pression dessus. Cette affection est plus fréquente chez les enfants que chez les adultes et nécessite un traitement professionnel continu pour être éliminée."
+      },
+      "painfulIngrowingNails" : {
+        "title" : "Ongles douloureux et incarnés",
+        "description" : "Affection provoquant une douleur lorsque les ongles appuient sur la peau, souvent en raison de chaussures serrées ou d'une mauvaise coupe des ongles."
+      }
+  },
+  "service2" : {
+    "title" : "Traitement des ongles" 
+  },
+  "service2_1" :
+{
+    "title" : "Chirurgie des ongles",
+    "description" :"Les ongles incarnés des orteils sont une affection qui provoque des douleurs lorsque l'ongle appuie sur la peau. Elle peut être due à différentes causes, comme le port de chaussures trop petites, une malformation génétique de l'ongle, ou des ongles mal coupés.Le traitement consiste en une opération simple, réalisée en clinique sous anesthésie locale, en ambulatoire."
+  },
+  "service2_2" : {
+    "title" : "Ablation des ongles",
+    "description" : "Orteils en marteau. Déformations des orteils qui peuvent causer des douleurs et de l'inconfort. Grâce à une technique simple, les orteils seront replacés dans la position la plus confortable possible."
+  },
+  "service2_3" : {
+    "title" : "Hallux Abductus Valgus",
+    "description" : "Déformation du gros orteil, également connue sous le nom d'oignon. Il s'agit d'une intervention qui permet de positionner l'orteil dans le bon alignement pour faciliter la marche."
+  },
+    "service3" : {
+      "title" : "Orthopodologie",
+      "description" : "Services spécialisés pour l'amélioration de la santé des pieds",
+      "customisedInsoles" : {
+        "title" : "Semelles sur mesure",
+        "description" :"Semelles sur mesure pour améliorer le confort et le soutien du pied",
+        "list" : ["Entorses du pied et de la cheville et blessures sportives", "Épines de pied", "Tension de la voûte plantaire, fasciite plantaire et bursite (inflammation du pied)", "Métatarsalgie (douleur de la plante du pied), névromes et capsulite", "Pieds plats et fourchettes hautes" ]
+      },
+      "siliconeProtheses" : {
+        "title" : "Prothèses en silicone",
+        "description" : "Elles peuvent être réalisées sur mesure lors de la consultation et permettent de s'assurer que les orteils sont correctement alignés. Leur utilisation permet d'éviter les cors et les frottements qui peuvent causer des douleurs lors du port de chaussures. Un bon exemple est leur utilisation pour les déformations du pied et les oignons."
+      }
+    },
+    "service4" : {
+      "title" : "Podologie physique",
+      "description" : ["- Application de pansements préventifs",
+      "- Application de bandages neuromusculaires",
+       "Cela permet d'améliorer, de manière non invasive :",
+        "- les entorses du pied et de la cheville et les blessures sportives",
+         "- Les épines de pied, les tensions dans la plante du pied, la fasciite plantaire et la bursite", "- Les métatarsalgies, les tensions dans la plante du pied, la fasciite plantaire et la bursite",
+          "- Métatarsalgies, névromes et capsulites" ]
+    },
+    "service5" : {
+      "title" : "Infiltrations de corticoïdes et de collagène",
+      "description" : "Ce type d'infiltrations sera administré aux patients souffrant d'affections douloureuses du pied. Elles sont principalement utilisées pour soulager la fasciite plantaire, la capsulite et les névromes, les nerfs coincés et l'inflammation des muscles, entre autres."
+    },
+    "service6" : {
+      "title" : "Podologie pédiatrique",
+      "description" : "Branche de la podologie où l'on traite les éventuelles affections qui peuvent survenir chez les enfants en bas âge. Cette étape commence lorsqu'ils rampent et se termine à l'âge adulte, lorsque le pied cesse de grandir. Une évaluation correcte est essentielle, car c'est le meilleur moment pour apporter les corrections nécessaires."
+    },
+    "service7" : {
+      "title" : "Podologie sportive",
+      "description" : "L'impact sur le pied lors d'activités sportives est plus important que lors d'activités quotidiennes normales. Cela peut affecter l'ensemble du corps, en particulier les articulations et les muscles. C'est pourquoi nous recommandons un bon diagnostic biomécanique pour prévenir les blessures et traiter celles qui existent déjà."
+    },
+   "service8" : {
+      "title" : "Soins des pieds diabétiques",
+      "description" : "Les patients diabétiques appartiennent à un groupe à haut risque. Ils souffrent d'une circulation sanguine déficiente et d'un manque de sensibilité. Ils doivent donc se rendre régulièrement chez le podologue pour surveiller tout changement."
+    },
+    "service8_5" : {
+        "title" : "Après 5 jours"
+      },
+      "service8_10" : {
+        "titre" : "Après 10 jours"
+      },
+      "service9" : {
+        "title" : "Soins du pied rhumatismal",
+        "description" : "La polyarthrite rhumatoïde provoque l'usure des articulations et l'inflammation de ces zones. Cette usure provoque des douleurs et des problèmes de marche. Dans notre clinique, nous disposons de traitements permettant de réduire ces symptômes et d'améliorer la qualité de vie des personnes souffrant de cette maladie."
+      },
+      "service10" : {
+        "title" : "Réflexologie plantaire",
+        "description" : "La réflexologie est une thérapie complémentaire basée sur la science de l'utilisation des points d'acupression des pieds. La réflexologie est une thérapie complémentaire basée sur la science de l'utilisation des points d'acupression des pieds. Elle peut être pratiquée parallèlement à un traitement médical ou comme moyen de rester en bonne santé, et peut améliorer de nombreux problèmes de santé, tels que les problèmes de dos, de poumons, d'intestins et de foie."
+      }
+    }
+  }
+
+,
+
+"logopedia" : {
+  "title" : "Services des troubles de la parole et du langage",
+  "description" : "Nos services complets d'orthophonie sont conçus pour aider les personnes confrontées à un large éventail de problèmes de communication. Qu'il s'agisse de troubles de la parole et du langage ou de difficultés de déglutition, nous proposons des plans de traitement sur mesure et fondés sur des données probantes qui répondent aux besoins uniques de chaque client, favorisant ainsi une meilleure communication et une meilleure qualité de vie en général",
+  "services" : {
+    "service1" : {
+      "title" : "Troubles de la lecture et de l'écriture",
+      "description" : "Thérapie spécialisée axée sur les difficultés de compréhension de la lecture, d'expression écrite et d'autres compétences liées au langage. Nos programmes font appel à des techniques structurées et fondées sur la recherche pour améliorer les capacités de lecture et d'écriture, renforcer la confiance en soi et favoriser la réussite scolaire."
+    },
+    "service2" : {
+      "title" : "Aphasie",
+      "description" : "Traitement complet des troubles du langage résultant de lésions cérébrales, telles que les accidents vasculaires cérébraux. Nos thérapies visent à rétablir la parole, à améliorer la compréhension et à renforcer les compétences globales en matière de communication grâce à des exercices ciblés et à des stratégies d'adaptation adaptées aux besoins de chaque individu."
+    },
+    "service3" : {
+      "title" : "Déglutition atypique",
+      "description" : "Thérapies conçues pour traiter les troubles de la déglutition, afin que les personnes puissent manger et boire en toute sécurité et confortablement. Nous proposons des programmes personnalisés comprenant une évaluation, des techniques de rééducation et des stratégies d'amélioration à long terme de la fonction de déglutition."
+    },
+    "service4" : {
+      "title" : "Thérapie myofonctionnelle",
+      "description" : "Approche spécialisée visant à améliorer la fonction musculaire orale et faciale. Cette thérapie s'attaque à des problèmes tels qu'une mauvaise position de la langue, des schémas de déglutition incorrects et des difficultés d'élocution afin de favoriser un développement oral optimal et une communication globale."
+    },
+    "service5" : {
+      "title" : "Orthophonie pédiatrique",
+      "description" : "Services d'orthophonie dédiés aux enfants, axés sur l'amélioration de la clarté de leur discours, de leur compréhension du langage et de leurs capacités de communication. Nos méthodes adaptées aux enfants sont conçues pour remédier aux retards de développement et doter les jeunes individus de compétences essentielles en matière de communication."
+    },
+    "service6" : {
+      "title" : "Déficit cognitif",
+      "description" : "Thérapies adaptées pour aider les personnes souffrant de troubles cognitifs à améliorer leurs fonctions de communication et de langage. Nous utilisons des interventions fondées sur des données probantes pour renforcer la mémoire, l'attention et les capacités de résolution de problèmes, afin d'améliorer les performances cognitives et communicatives globales."
+    }
+  }
+
+
+          },
+          "physiotherapy" : {
+            "title" : "Services de physiothérapie",
+            "description" : "Nos services de physiothérapie visent à soutenir le rétablissement, à gérer la douleur et à améliorer la mobilité grâce à des pratiques fondées sur des preuves. Chaque traitement est adapté pour répondre aux besoins uniques de nos clients et les aider à atteindre une santé physique et un bien-être optimaux",
+            "services" : {
+              "service1" : {
+                "title" : "Traitement de la colonne vertébrale",
+                "description" : "Thérapies complètes axées sur le soulagement des douleurs dorsales, l'amélioration de l'alignement de la colonne vertébrale et le rétablissement de la souplesse. Nos traitements sont conçus pour cibler des pathologies telles que les hernies discales, les douleurs dorsales chroniques et les déséquilibres posturaux."
+              },
+              "manualTherapy" : {
+                "title" : "Thérapie manuelle",
+                "massage" : {
+                  "title" : "Massage",
+                  "description" : "Techniques de massage thérapeutique visant à soulager les tensions musculaires, à réduire le stress et à renforcer les processus naturels de guérison du corps en améliorant la circulation sanguine et la souplesse."
+                },
+                "mobilizations" : {
+                  "title" : "Mobilisations",
+                  "description" : "Techniques douces de mobilisation des articulations visant à restaurer la fonctionnalité des articulations, à soulager la douleur et à améliorer la mobilité générale et l'amplitude des mouvements."
+                },
+                "neuroMuscularTechnique" : {
+                  "title" : "Technique neuro-musculaire",
+                  "description" : "Une approche ciblée pour traiter les déséquilibres musculaires, réduire les restrictions liées aux nerfs et améliorer la coordination neuromusculaire pour de meilleures performances physiques."
+                }
+              },
+              "service3" : {
+                "title" : "Traitement de la tendinite et de l'arthrose",
+                "description" : "Traitements spécialisés pour gérer l'inflammation, soulager la douleur et restaurer la fonction articulaire. Ces thérapies sont conçues pour aider les clients à retrouver leur mobilité et à réduire la gêne occasionnée par les activités quotidiennes."
+              },
+              "service4" : {
+                "title" : "Réhabilitation de la démarche",
+                "description" : "Thérapies individualisées visant à améliorer les habitudes de marche, à renforcer l'équilibre et à restaurer la confiance dans la mobilité. Ce service est particulièrement bénéfique pour les personnes qui se remettent d'une blessure ou d'une maladie neurologique."
+              },
+              "service5" : {
+                "title" : "Rééducation de la motricité fine",
+                "description" : "Programmes de réadaptation axés sur l'amélioration de la coordination, de la dextérité et de la force des mains et des doigts. Idéal pour les personnes qui se remettent de blessures ou de troubles neurologiques affectant la motricité fine."
+              },
+              "service6" : {
+                "title" : "Réhabilitation neurologique",
+                "description" : "Réadaptation complète pour les personnes souffrant d'affections neurologiques telles que les accidents vasculaires cérébraux, la sclérose en plaques ou la maladie de Parkinson. Ces thérapies visent à améliorer la mobilité, la force et la qualité de vie en général."
+              },
+              "service7" : {
+                "title" : "Physiothérapie de l'articulation temporo-mandibulaire",
+                "description" : "Traitements spécialisés pour les affections liées à la mâchoire, visant à soulager la douleur, à améliorer la fonction de la mâchoire et la qualité de vie des personnes souffrant de troubles temporo-mandibulaires."
+              },
+              "service8" : {
+                "title" : "Thérapie par l'exercice",
+                "description" : "Programmes d'exercices personnalisés conçus pour favoriser le rétablissement, renforcer la force et améliorer la flexibilité. Ces programmes sont adaptés aux objectifs et aux capacités physiques de chacun."
+              },
+              "service9" : {
+                "title" : "Physiothérapie pédiatrique",
+                "description" : "Thérapies spécialisées conçues pour soutenir le développement physique et la mobilité des enfants. Ces services s'adressent à un large éventail d'affections, favorisant une croissance saine et une amélioration des capacités motrices."
+              },
+              "service10" : {
+                "title" : "Physiothérapie du plancher pelvien",
+                "description" : "Traitements ciblés visant à améliorer la santé du plancher pelvien, en abordant des problèmes tels que l'incontinence, les douleurs pelviennes et la récupération post-partum par le biais d'exercices et de techniques adaptés."
+              }
+            }
+          }
+
+          , 
+          "medicalAestheticServices" : {
+            "overview" : {
+              "title" : "Services de soins infirmiers",
+              "description" : "Nos services de soins infirmiers sont conçus pour améliorer la santé de la peau et l'apparence générale grâce à des traitements avancés et fondés sur des preuves. Nous proposons des solutions personnalisées pour répondre à un large éventail de préoccupations esthétiques et dermatologiques, garantissant des résultats optimaux et la satisfaction du client."
+            },
+            "services" : {
+              "service1" : {
+                "title" : "Extraction et analyse du sang",
+                "description" : "Procédures de diagnostic précises qui fournissent des informations vitales sur la santé. Ces services contribuent à la détection précoce, au suivi des pathologies en cours et à la création de plans de traitement précis pour de meilleurs résultats."
+              },
+              "service2" : {
+                "title" : "Soins des plaies",
+                "description" : "Traitements spécialisés visant à promouvoir une cicatrisation rapide et efficace des plaies. Nos approches personnalisées minimisent les risques d'infection et favorisent une réparation et une guérison optimales des tissus."
+              },
+              "service3" : {
+                "title" : "Sutures",
+                "description" : "Techniques avancées de fermeture des plaies conçues pour assurer une cicatrisation efficace et minimiser les cicatrices. Nos méthodes professionnelles offrent des avantages fonctionnels et esthétiques pour diverses blessures."
+              },
+              "service4" : {
+                "title" : "Traitements dermoesthétiques",
+                "description" : "Services de rajeunissement cutané de pointe conçus pour améliorer la texture, le tonus et l'apparence de la peau. Ces traitements visent à améliorer la beauté naturelle et à restaurer la vitalité de la jeunesse",
+                "injectables" : {
+                  "title" : "Injectables",
+                  "description" : "Procédures non invasives telles que le Botox et les produits de comblement qui réduisent efficacement les rides, améliorent les contours du visage et donnent une apparence rafraîchie",
+                  "before" : "Avant le traitement : ",
+                  "after" : "Après 4 jours : ",
+                  "after2" : "Après 1 semaine :  "
+                },
+                "lipFiller" : {
+                  "title" : "Comblement de lèvres",
+                  "description" : "Traitements sur mesure pour améliorer le volume, la forme et la symétrie des lèvres, offrant des résultats naturels et durables",
+                  "woman1" : "Comparaison avant et après le traitement :  "
+                },
+                "skinBooster" : {
+                  "title" : "Skin Booster",
+                  "description" : "Des traitements d'hydratation innovants conçus pour améliorer l'élasticité, la douceur et l'éclat de la peau. Parfait pour obtenir un teint éclatant et rajeuni",
+                  "before" : "Avant le traitement : ",
+                  "after" : "Après le traitement :  "
+                },
+                "mesotherapy" : {
+                  "title" : "Mésothérapie",
+                  "description" : "Une procédure de rajeunissement impliquant des injections riches en nutriments qui resserrent, hydratent et revitalisent la peau, résultant en une apparence plus jeune et rafraîchie."
+                },
+                "chemicalPeels" : {
+                  "title" : "Peelings chimiques",
+                  "description" : "Traitements exfoliants efficaces qui ciblent les imperfections de la peau telles que la texture inégale, l'hyperpigmentation et les cicatrices d'acné, laissant la peau plus lisse et plus lumineuse."
+                },
+                "growthFactor" : {
+                  "title" : "Facteur de croissance",
+                  "description" : "Traitements avancés qui stimulent la réparation et la régénération cellulaires, améliorant l'élasticité, la texture et la vitalité générale de la peau pour un éclat de jeunesse."
+                }
+              }
+            }
+          }
+          
+          
+          ,
+          
+
+
+      "header" : {
+"home" : "Home",
+"services" : "Services",
+"podology" : "Podologie",
+"nursing" : "Soins infirmiers",
+"physiotherapy" : "physiothérapie",
+"logopedia" : "Logopedia",
+"team" : "Equipe",
+"contact" : "Contact",
+"reviews" : "Reviews",
+"language" : "Langue",
+"english" : "English",
+"spanish" : "espagnol",
+"french" : "French",
+"german" : "Allemand",
+"dutch" : "Néerlandais"
+},
+
+"footer" : {
+"menu" : "Menu",
+"home" : "Accueil",
+"services" : "Services",
+"team" : "Equipe",
+"contact" : "Contact",
+"reviews" : "Reviews",
+"contactUs" : "Contact Us",
+"followUs" : "Suivez-nous",
+"copyright" : "© 2024 Podologia La Carihuela. Tous droits réservés."
+},
+
+"contactsection":{
+  "description" : " N'hésitez pas à nous contacter pour un rendez-vous ! " ,
+  "contactus"  : " Contactez-nous ! "
+}
+}
+

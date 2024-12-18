@@ -1,0 +1,367 @@
+{
+  "team": {
+    "section_title": "Meet Our Team",
+    "section_description": "We are a team of dedicated professionals working together to provide high-quality care and services. Get to know the experts who will help you on your journey to better health and well-being.",
+    "member1": {
+      "name": "Desirée González Bossaers",
+      "title": "Director & Podiatrist",
+      "description": "Dr. Desirée González Bossaers studied chiropody at the University of Malaga, where she graduated in 2013. Both during and after her training, she specializes in foot surgery and completed various additional courses to further her studies in different fields, including the care of diabetic feet, infiltrations, prp treatments and children treatments."
+    },
+    "member2": {
+      "name": "Olga Golovacheva",
+      "title": "Physiotherapist",
+      "description": "Hello. My name is Olga Golovacheva, originally from Russia, and I am a physiotherapist. I graduated in the University of Malaga, specialising in Neurological physiotherapy. I love my profession as rehabilitation and physiotherapy are not only a treatment for patients, but also a way of helping and encouraging patients to recover in a physical but also physiological and social level."
+    },
+    "member3": {
+      "name": "Berta Ramírez",
+      "title": "Nurse",
+      "description": "Hello Everyone, my name is Berta Ramirez and I am a nurse. I graduated at the University of Granada and a year later, I got into Dermoesthetics Nursing. My aim is to take care of your nursing needs and improve the appearance of your skin in a balanced manner. I am very eager to offer my personalised services, to be able to resolve your questions and doubts and help you to be a bit happier."
+    },
+    "member4": {
+      "name": "Leonor Buitrago",
+      "title": "Speech therapist",
+      "description": "Hello! My name is Leonor Buitrago and I am a Speech Therapist. I graduated from the Faculty of Malaga and I have been in this wonderful profession for 15 years. I am specialized in communication, language, speech and voice disorders; as well as swallowing disorders. And what I enjoy most about my job is seeing my patients improve and the personal bond that is created with each of them."
+    }
+  },
+
+  "services": {
+    "section_title": "Our Services",
+    "section_description": "We offer a wide range of specialized services to cater to your health needs. Below you can find an overview of each field and explore the services offered in each one.",
+    "podology": {
+      "title": "Podology",
+      "description": "Podology focuses on the care and treatment of the feet, offering services to address conditions such as corns, hard skin, and verrucae. Our specialists ensure your feet are healthy and well-maintained."
+    },
+    "nursing": {
+      "title": "Nursing",
+      "description": "Our nursing services encompass a broad spectrum of care, including wound care, blood extraction, injectables, and dermoesthetic treatments. We are here to provide you with the highest level of care and support."
+    },
+    "physiotherapy": {
+      "title": "Physiotherapy",
+      "description": "Physiotherapy is essential for rehabilitation, pain management, and recovery from injuries. We offer various treatments such as manual therapy, exercise therapy, and neurorehabilitation."
+    },
+    "logopedia": {
+      "title": "Logopedia",
+      "description": "Logopedia focuses on the diagnosis and treatment of speech and language disorders. Our services include therapy for aphasia, cognitive deficits, and pediatric speech development."
+    }
+  },
+
+  "reviews": {
+    "section_title": "Hear what our clients have to say about us",
+    "section_description": "Our clients' satisfaction is our priority. Check out some of their experiences!"
+  },
+
+  "hero": {
+    "title": "Podiatry and more at La Carihuela",
+    "description": "Our podiatry, physiotherapy, nursing, speech therapy, and more services. Take care of your health with us!"
+  },
+  "home_services": {
+    "section_title": "Our Services",
+    "service1": {
+      "name": "Podiatry",
+      "description": "Specialized care for your feet, preventing and treating all types of problems."
+    },
+    "service2": {
+      "name": "Nursing",
+      "description": "Providing professional nursing care to improve well-being."
+    },
+    "service3": {
+      "name": "Physiotherapy",
+      "description": "Improving mobility and strength through targeted physiotherapy treatments."
+    },
+    "service4": {
+      "name": "Speech Therapy",
+      "description": "Helping with communication skills and disorders."
+    }
+  },
+
+  "contact": {
+    "section_title": "Get in Touch",
+    "section_description": "We are here to help! Contact us for inquiries or appointments.",
+    "info_title": "Contact Information",
+    "phone1": "Phone 1: ",
+    "phone2": "Phone 2: ",
+    "email": "Email: ",
+    "address": "Address: "
+  },
+  "podiatryServices": {
+    "overview": {
+      "title": "Podiatry Services",
+      "description": "We provide a variety of podiatry services to help you maintain healthy feet and overcome any foot problems."
+    },
+    "services": {
+      "service1": {
+        "title": "Chiropody",
+        "description": "Chiropody services to address common foot problems and ensure proper care.",
+        "corns": {
+          "title": "Corns",
+          "description": "A problem caused by the accumulation of keratin by overpressure on the foot or rubbing, and they can be quite deep. They are normally found on the sole of the foot or on the toes. The treatment consists in removing them."
+        },
+        "hardSkin": {
+          "title": "Hard Skin",
+          "description": "This is a skin disorder caused by the thickening of the skin owing to excessive amounts of keratin. It develops on the areas of the foot with the most pressure when walking. On the heels, with lack of care, it can develop into deep and painful cracks, difficult to get rid of. Treatment is based on removing it, regular hydration of the feet, proper footwear and the possible use of insoles."
+        },
+        "verrucae": {
+          "title": "Verrucae",
+          "description": "Caused by the HPV (Human papilloma virus). The virus penetrates the skin, causing a round sore, which is very painful when pressure is put on it. This is more common in children than in adults, and requires continuous professional treatment to get rid of."
+        },
+        "painfulIngrowingNails": {
+          "title": "Painful and Ingrowing Nails",
+          "description": "A condition causing pain when nails press against the skin, often due to tight shoes or incorrect nail cutting."
+        }
+      },
+      "service2": {
+        "title": "Nail Treatments"
+      },
+      "service2_1": {
+        "title": "Nail Surgery",
+        "description": "Ingrowing toe nails, a condition which causes pain when the nail is pressing against the skin. It can be due to various causes, such as wearing shoes which are too small, genetic malformation of the nail, or nails which have been incorrectly cut. Treatment consists of a simple operation, carried out in the clinic under local anaesthetic, on an outpatient basis."
+      },
+      "service2_2": {
+        "title": "Nail Ablation",
+        "description": "Hammer toes. Deformities of the toes which can cause pain and discomfort. With a simple technique the toes will be replaced in the most comfortable position possible."
+      },
+      "service2_3": {
+        "title": "Hallux Abductus Valgus",
+        "description": "Deformity of the big toe, also known as a bunion. It's a procedure that will position the toe in the correct alignment to make walking easier."
+      },
+      "service3": {
+        "title": "Orthopodology",
+        "description": "Specialized services for foot health improvement.",
+        "customisedInsoles": {
+          "title": "Customised Insoles",
+          "description": "Tailored insoles to improve foot comfort and support.",
+          "list": [
+            "Foot and ankle sprains, and sports injuries",
+            "Foot spurs",
+            "Tension in the arch of the foot, plantar fasciitis and bursitis (inflammation of the foot)",
+            "Metatarsalgia (pain in the ball of the foot), neuromas and capsulitis",
+            "Flat feet and high insteps"
+          ]
+        },
+        "siliconeProtheses": {
+          "title": "Silicone Protheses",
+          "description": "They can be made to measure during the consultation, and are used to make sure the toes are correctly aligned. Their use prevents corns and rubbing which can cause pain when wearing shoes. A good example is their use for foot deformities and bunions."
+        }
+      },
+      "service4": {
+        "title": "Physical Podiatry",
+        "description": [
+          "• Application of preventive dressings",
+          "• Applications of neuromuscular bandages",
+          "This improves, in a non-invasive way:",
+          "• Foot and ankle sprains and sports injuries",
+          "• Foot spurs, tension in the sole of the foot, plantar fasciitis and bursitis",
+          "• Metatarsalgia, neuromas and capsulitis"
+        ]
+      },
+      "service5": {
+        "title": "Infiltrations of Corticoids and Collagen",
+        "description": "These type of infiltrations will be administered to patients with painful foot complaints. Mostly used for the relief of plantar fasciitis, capsulitis and neuromas, trapped nerves and inflammation of the muscles amongst other conditions."
+      },
+      "service6": {
+        "title": "Pediatric Podiatry",
+        "description": "A branch of chiropody where possible conditions are treated that may occur in infancy. This stage starts from when they are crawling to adulthood, when the foot stops growing. A correct assessment is essential, as this is the best time to make any necessary corrections."
+      },
+      "service7": {
+        "title": "Sports Podiatry",
+        "description": "The impact on the foot during sporting activities, is greater than with normal, everyday activities. This can affect the whole of the body, especially the joints and muscles. Therefore, we would recommend a good biomechanical diagnosis to prevent injuries and to treat existing ones."
+      },
+      "service8": {
+        "title": "Diabetic Foot Care",
+        "description": "Diabetic patients belong to an elevated risk group. They have a deficient blood circulation and a lack of sensitivity, therefore should have regular check ups at the chiropodist, to monitor any changes."
+      },
+      "service8_5": {
+        "title": "After 5 Days"
+      },
+      "service8_10": {
+        "title": "After 10 Days"
+      },
+      "service9": {
+        "title": "Rheumatic Foot Care",
+        "description": "Rheumatoid arthritis causes wear and tear of the joints with inflammation in these areas. This wear and tear causes pain and problems when walking. In our clinic, we have treatments available to reduce theses symptoms and improve quality of life for those suffering from this condition."
+      },
+      "service10": {
+        "title": "Foot Reflexology",
+        "description": "Dates back to 5000 years ago in ancient Egypt where foot massage was used to cure diseases and for relaxation. Reflexology is a complementary therapy based on the science of using acupressure points on the feet. It can be practised together with any medical treatment or, as a good way of keeping in good health, and can improve many health conditions, such as back, lung, intestinal and liver problems."
+      }
+    }
+  },
+
+  "logopedia": {
+    "title": "Speech and Language Disorders Services",
+    "description": "Our comprehensive speech therapy services are designed to assist individuals experiencing a wide range of communication challenges. From addressing speech and language impairments to swallowing difficulties, we offer tailored and evidence-based treatment plans that cater to the unique needs of every client, promoting better communication and overall quality of life.",
+    "services": {
+      "service1": {
+        "title": "Reading and Writing Disorders",
+        "description": "Specialized therapy focused on addressing difficulties in reading comprehension, written expression, and other language-related skills. Our programs employ structured and research-backed techniques to enhance literacy abilities, build confidence, and support academic success."
+      },
+      "service2": {
+        "title": "Aphasia",
+        "description": "Comprehensive treatment for language impairments resulting from brain injuries, such as strokes. Our therapies aim to restore speech, improve comprehension, and enhance overall communication skills through targeted exercises and adaptive strategies tailored to each individual's needs."
+      },
+      "service3": {
+        "title": "Atypical Swallowing",
+        "description": "Therapies designed to address swallowing disorders, ensuring individuals can eat and drink safely and comfortably. We provide personalized programs that include assessment, rehabilitation techniques, and strategies for long-term improvement in swallowing function."
+      },
+      "service4": {
+        "title": "Myofunctional Therapy",
+        "description": "A specialized approach aimed at improving oral and facial muscle function. This therapy addresses issues such as improper tongue posture, incorrect swallowing patterns, and speech challenges to support optimal oral development and overall communication."
+      },
+      "service5": {
+        "title": "Pediatric Speech Therapy",
+        "description": "Dedicated speech therapy services for children, focusing on enhancing their speech clarity, language understanding, and communication abilities. Our child-friendly methods are designed to address developmental delays and equip young individuals with essential communication skills."
+      },
+      "service6": {
+        "title": "Cognitive Deficit",
+        "description": "Tailored therapies to assist individuals with cognitive impairments in improving their communication and language functions. We employ evidence-based interventions to strengthen memory, attention, and problem-solving abilities, fostering better overall cognitive and communicative performance."
+      }
+    }
+  },
+  "physiotherapy": {
+    "title": "Physiotherapy Services",
+    "description": "Our physiotherapy services aim to support recovery, manage pain, and enhance mobility through evidence-based practices. Each treatment is tailored to address the unique needs of our clients, helping them achieve optimal physical health and well-being.",
+    "services": {
+      "service1": {
+        "title": "Treatment of the Spine",
+        "description": "Comprehensive therapies focused on alleviating back pain, improving spinal alignment, and restoring flexibility. Our treatments are designed to target conditions such as herniated discs, chronic back pain, and postural imbalances."
+      },
+      "manualTherapy": {
+        "title": "Manual Therapy",
+        "massage": {
+          "title": "Massage",
+          "description": "Therapeutic massage techniques to relieve muscle tension, reduce stress, and enhance the body's natural healing processes by improving blood circulation and flexibility."
+        },
+        "mobilizations": {
+          "title": "Mobilizations",
+          "description": "Gentle joint mobilization techniques aimed at restoring joint functionality, alleviating pain, and enhancing overall mobility and range of motion."
+        },
+        "neuroMuscularTechnique": {
+          "title": "Neuro-Muscular Technique",
+          "description": "A targeted approach to address muscle imbalances, reduce nerve-related restrictions, and improve neuromuscular coordination for better physical performance."
+        }
+      },
+      "service3": {
+        "title": "Treatment of Tendonitis and Osteoarthritis",
+        "description": "Specialized treatments to manage inflammation, alleviate pain, and restore joint function. These therapies are tailored to help clients regain mobility and reduce discomfort in daily activities."
+      },
+      "service4": {
+        "title": "Gait Rehabilitation",
+        "description": "Individualized therapies aimed at improving walking patterns, enhancing balance, and restoring confidence in mobility. This service is particularly beneficial for those recovering from injuries or neurological conditions."
+      },
+      "service5": {
+        "title": "Fine Motor Skills Rehabilitation",
+        "description": "Rehabilitation programs focused on improving hand and finger coordination, dexterity, and strength. Ideal for individuals recovering from injuries or neurological conditions affecting fine motor abilities."
+      },
+      "service6": {
+        "title": "Neuro rehabilitation",
+        "description": "Comprehensive rehabilitation for individuals with neurological conditions such as stroke, multiple sclerosis, or Parkinson’s disease. These therapies aim to enhance mobility, strength, and overall quality of life."
+      },
+      "service7": {
+        "title": "Temporo mandibular Joint Physiotherapy",
+        "description": "Specialized treatments for jaw-related conditions, targeting pain relief, improved jaw function, and enhanced quality of life for those suffering from temporomandibular disorders."
+      },
+      "service8": {
+        "title": "Exercise Therapy",
+        "description": "Personalized exercise programs designed to support recovery, build strength, and improve flexibility. These plans are tailored to meet individual goals and physical capabilities."
+      },
+      "service9": {
+        "title": "Pediatric Physiotherapy",
+        "description": "Specialized therapies designed to support the physical development and mobility of children. These services address a wide range of conditions, promoting healthy growth and improved motor skills."
+      },
+      "service10": {
+        "title": "Pelvic Floor Physiotherapy",
+        "description": "Focused treatments to improve pelvic floor health, addressing issues such as incontinence, pelvic pain, and postpartum recovery through tailored exercises and techniques."
+      }
+    }
+  },
+
+  "medicalAestheticServices": {
+    "overview": {
+      "title": "Nursing Services",
+      "description": "Our nursing services are designed to enhance skin health and overall appearance through advanced, evidence-based treatments. We offer personalized solutions to address a wide range of aesthetic and dermatological concerns, ensuring optimal results and client satisfaction."
+    },
+    "services": {
+      "service1": {
+        "title": "Blood Extraction and Analysis",
+        "description": "Accurate diagnostic procedures that provide vital health insights. These services aid in early detection, monitor ongoing conditions, and support the creation of precise treatment plans for improved outcomes."
+      },
+      "service2": {
+        "title": "Wound Care",
+        "description": "Specialized treatments aimed at promoting rapid and effective wound healing. Our customized approaches minimize infection risks and support optimal tissue repair and recovery."
+      },
+      "service3": {
+        "title": "Sutures",
+        "description": "Advanced wound closure techniques designed to ensure effective healing and minimize scarring. Our professional methods provide both functional and aesthetic benefits for diverse injuries."
+      },
+      "service4": {
+        "title": "Dermoesthetic Treatments",
+        "description": "State-of-the-art skin rejuvenation services designed to improve skin texture, tone, and appearance. These treatments focus on enhancing natural beauty and restoring youthful vitality.",
+        "injectables": {
+          "title": "Injectables",
+          "description": "Non-invasive procedures such as Botox and fillers that effectively reduce wrinkles, enhance facial contours, and provide a refreshed appearance.",
+          "before": "Before treatment: ",
+          "after": "After 4 days: ",
+          "after2": "After 1 week: "
+        },
+        "lipFiller": {
+          "title": "Lip Filler",
+          "description": "Tailored treatments to enhance lip volume, shape, and symmetry, providing natural and long-lasting results.",
+          "woman1": "Comparison before and after treatment: "
+        },
+        "skinBooster": {
+          "title": "Skin Booster",
+          "description": "Innovative hydration treatments designed to enhance skin elasticity, smoothness, and radiance. Perfect for achieving a glowing and rejuvenated complexion.",
+          "before": "Before treatment: ",
+          "after": "After treatment: "
+        },
+        "mesotherapy": {
+          "title": "Mesotherapy",
+          "description": "A rejuvenating procedure involving nutrient-rich injections that tighten, hydrate, and revitalize the skin, resulting in a more youthful and refreshed appearance."
+        },
+        "chemicalPeels": {
+          "title": "Chemical Peels",
+          "description": "Effective exfoliating treatments that target skin imperfections such as uneven texture, hyperpigmentation, and acne scars, leaving the skin smoother and brighter."
+        },
+        "growthFactor": {
+          "title": "Growth Factor",
+          "description": "Advanced treatments that stimulate cellular repair and regeneration, improving skin elasticity, texture, and overall vitality for a youthful glow."
+        }
+      }
+    }
+  },
+
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "podology": "Podology",
+    "nursing": "Nursing",
+    "physiotherapy": "Physiotherapy",
+    "logopedia": "Logopedia",
+    "team": "Team",
+    "contact": "Contact",
+    "reviews": "Reviews",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French",
+    "german": "German",
+    "dutch": "Dutch"
+  },
+
+  "footer": {
+    "menu": "Menu",
+    "home": "Home",
+    "services": "Services",
+    "team": "Team",
+    "contact": "Contact",
+    "reviews": "Reviews",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 Podologia La Carihuela. All rights reserved."
+  },
+
+  "contactsection": {
+    "description": "Feel free to reach out for an appointment! ",
+    "contactus": " Contact Us!"
+  }
+}

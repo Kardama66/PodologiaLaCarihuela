@@ -1,0 +1,232 @@
+<div
+  class="bg-gradient-to-r from-yellow-100 to-yellow-200 min-h-screen py-16 px-8"
+>
+  <!-- Physiotherapy Services Section -->
+  <section class="w-full mb-16">
+    <div class="text-center mb-12">
+      <h2 class="text-5xl font-extrabold text-gray-900 mb-6">
+        {{ "physiotherapy.title" | translate }}
+      </h2>
+      <p class="text-xl text-gray-700">
+        {{ "physiotherapy.description" | translate }}
+      </p>
+    </div>
+
+    <div class="space-y-12">
+      <!-- 1. Treatment of the Spine -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service1.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600 mb-6">
+          {{ "physiotherapy.services.service1.description" | translate }}
+        </p>
+        <img
+          src="spine_treatment.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 2. Manual Therapy -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.manualTherapy.title" | translate }}
+        </h3>
+        <div class="space-y-8">
+          <!-- Massage -->
+          <div
+            class="group bg-yellow-50 p-8 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl"
+          >
+            <h4
+              class="text-3xl font-medium text-yellow-700 mb-4 group-hover:text-yellow-600"
+            >
+              {{
+                "physiotherapy.services.manualTherapy.massage.title" | translate
+              }}
+            </h4>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "physiotherapy.services.manualTherapy.massage.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="massage.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+          <!-- Mobilizations -->
+          <div
+            class="group bg-yellow-50 p-8 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl"
+          >
+            <h4
+              class="text-3xl font-medium text-yellow-700 mb-4 group-hover:text-yellow-600"
+            >
+              {{
+                "physiotherapy.services.manualTherapy.mobilizations.title"
+                  | translate
+              }}
+            </h4>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "physiotherapy.services.manualTherapy.mobilizations.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="mobilization.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+          <!-- Neuro-Muscular Technique -->
+          <div
+            class="group bg-yellow-50 p-8 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl"
+          >
+            <h4
+              class="text-3xl font-medium text-yellow-700 mb-4 group-hover:text-yellow-600"
+            >
+              {{
+                "physiotherapy.services.manualTherapy.neuroMuscularTechnique.title"
+                  | translate
+              }}
+            </h4>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "physiotherapy.services.manualTherapy.neuroMuscularTechnique.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="neuromuscular.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. Treatment of Tendonitis and Osteoarthritis -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service3.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service3.description" | translate }}
+        </p>
+        <img
+          src="treamtentOfT.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 4. Gait Rehabilitation -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service4.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service4.description" | translate }}
+        </p>
+        <img
+          src="gait_rehablization.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 5. Fine Motor Skills Rehabilitation -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service5.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service5.description" | translate }}
+        </p>
+        <img
+          src="HandReh.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 6. Neurorehabilitation -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service6.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service6.description" | translate }}
+        </p>
+        <img
+          src="NeuroReh.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 7. Temporomandibular Joint Physiotherapy -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service7.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service7.description" | translate }}
+        </p>
+        <img
+          src="joint.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 8. Exercise Therapy -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service8.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service8.description" | translate }}
+        </p>
+        <img
+          src="exerciseTherapy.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 9. Pediatric Physiotherapy -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service9.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service9.description" | translate }}
+        </p>
+        <img
+          src="pediatricPhysio.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- 10. Pelvic Floor Physiotherapy -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "physiotherapy.services.service10.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600">
+          {{ "physiotherapy.services.service10.description" | translate }}
+        </p>
+        <img
+          src="pelvicFloor.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+    </div>
+  </section>
+</div>

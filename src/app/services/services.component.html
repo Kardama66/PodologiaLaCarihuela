@@ -1,0 +1,86 @@
+<div class="bg-gradient-to-r from-blue-100 to-blue-300 min-h-screen py-16 px-8">
+  <div class="text-center mb-12">
+    <h2 class="text-5xl font-extrabold text-gray-900 mb-6">
+      {{ "services.section_title" | translate }}
+    </h2>
+    <p class="text-xl text-gray-700 mx-auto max-w-5xl">
+      {{ "services.section_description" | translate }}
+    </p>
+  </div>
+
+  <!-- Podology Summary -->
+  <div
+    [routerLink]="'/services/podology'"
+    class="service-card bg-white p-6 mb-8 rounded-xl shadow-xl cursor-pointer transform transition-transform duration-300 hover:scale-105"
+  >
+    <div class="flex flex-col items-center">
+      <div class="service-icon mb-4">
+        <img src="podologia.svg" alt="Podology Icon" class="w-12 h-12" />
+      </div>
+      <h3 class="text-3xl font-extrabold text-gray-800 mb-4">
+        {{ "services.podology.title" | translate }}
+      </h3>
+      <p class="text-lg text-gray-600 mb-6 text-center">
+        {{ "services.podology.description" | translate }}
+      </p>
+    </div>
+  </div>
+
+  <!-- Nursing Summary -->
+  <div
+    [routerLink]="'/services/nursing'"
+    class="service-card bg-white p-6 mb-8 rounded-xl shadow-xl cursor-pointer transform transition-transform duration-300 hover:scale-105"
+  >
+    <div class="flex flex-col items-center">
+      <div class="service-icon mb-4">
+        <img src="enfermeria.svg" alt="Nursing Icon" class="w-12 h-12" />
+      </div>
+      <h3 class="text-3xl font-extrabold text-gray-800 mb-4">
+        {{ "services.nursing.title" | translate }}
+      </h3>
+      <p class="text-lg text-gray-600 mb-6 text-center">
+        {{ "services.nursing.description" | translate }}
+      </p>
+    </div>
+  </div>
+
+  <!-- Physiotherapy Summary -->
+  <div
+    [routerLink]="'/services/physiotherapy'"
+    class="service-card bg-white p-6 mb-8 rounded-xl shadow-xl cursor-pointer transform transition-transform duration-300 hover:scale-105"
+  >
+    <div class="flex flex-col items-center">
+      <div class="service-icon mb-4">
+        <img
+          src="fisioterapia.svg"
+          alt="Physiotherapy Icon"
+          class="w-12 h-12"
+        />
+      </div>
+      <h3 class="text-3xl font-extrabold text-gray-800 mb-4">
+        {{ "services.physiotherapy.title" | translate }}
+      </h3>
+      <p class="text-lg text-gray-600 mb-6 text-center">
+        {{ "services.physiotherapy.description" | translate }}
+      </p>
+    </div>
+  </div>
+
+  <!-- Logopedia Summary -->
+  <div
+    [routerLink]="'/services/logopedia'"
+    class="service-card bg-white p-6 mb-8 rounded-xl shadow-xl cursor-pointer transform transition-transform duration-300 hover:scale-105"
+  >
+    <div class="flex flex-col items-center">
+      <div class="service-icon mb-4">
+        <img src="logopedia.svg" alt="Logopedia Icon" class="w-12 h-12" />
+      </div>
+      <h3 class="text-3xl font-extrabold text-gray-800 mb-4">
+        {{ "services.logopedia.title" | translate }}
+      </h3>
+      <p class="text-lg text-gray-600 mb-6 text-center">
+        {{ "services.logopedia.description" | translate }}
+      </p>
+    </div>
+  </div>
+</div>

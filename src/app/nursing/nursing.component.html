@@ -1,0 +1,320 @@
+<div
+  class="bg-gradient-to-r from-green-100 to-green-300 min-h-screen py-16 px-8"
+>
+  <!-- Medical Aesthetic Services Section -->
+  <section class="w-full mb-16">
+    <div class="text-center mb-12">
+      <h2 class="text-5xl font-extrabold text-gray-900 mb-6">
+        {{ "medicalAestheticServices.overview.title" | translate }}
+      </h2>
+      <p class="text-xl text-gray-700 max-w-5xl mx-auto">
+        {{ "medicalAestheticServices.overview.description" | translate }}
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 gap-8">
+      <!-- Service 1: Blood Extraction/Analysis -->
+      <div
+        class="bg-white p-8 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+      >
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "medicalAestheticServices.services.service1.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600 mb-6">
+          {{
+            "medicalAestheticServices.services.service1.description" | translate
+          }}
+        </p>
+        <img
+          src="blood_extraction.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- Service 2: Wound Care -->
+      <div
+        class="bg-white p-8 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+      >
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "medicalAestheticServices.services.service2.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600 mb-6">
+          {{
+            "medicalAestheticServices.services.service2.description" | translate
+          }}
+        </p>
+        <img
+          src="WoundCare.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- Service 3: Sutures -->
+      <div
+        class="bg-white p-8 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl"
+      >
+        <h3 class="text-4xl font-semibold text-gray-800 mb-6">
+          {{ "medicalAestheticServices.services.service3.title" | translate }}
+        </h3>
+        <p class="text-lg text-gray-600 mb-6">
+          {{
+            "medicalAestheticServices.services.service3.description" | translate
+          }}
+        </p>
+        <img
+          src="sutures.jpg"
+          alt=""
+          class="max-w-full max-h-64 object-contain rounded-lg"
+        />
+      </div>
+
+      <!-- Section for Dermoesthetic Treatments -->
+      <!-- Section for Dermoesthetic Treatments -->
+      <div class="bg-white p-8 rounded-lg shadow-lg">
+        <h2 class="text-4xl font-semibold text-gray-900 mb-8">
+          {{ "medicalAestheticServices.services.service4.title" | translate }}
+        </h2>
+        <p class="text-lg text-gray-700 mb-8">
+          {{
+            "medicalAestheticServices.services.service4.description" | translate
+          }}
+        </p>
+
+        <div class="space-y-8">
+          <!-- Injectables -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.injectables.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.injectables.description"
+                  | translate
+              }}
+            </p>
+
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.injectables.before"
+                  | translate
+              }}
+            </h4>
+            <img
+              src="podolog3.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.injectables.after"
+                  | translate
+              }}
+            </h4>
+            <img
+              src="podolog2.png"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.injectables.after2"
+                  | translate
+              }}
+            </h4>
+            <img
+              src="podolog1.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+
+          <!-- Lip Filler -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.lipFiller.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.lipFiller.description"
+                  | translate
+              }}
+            </p>
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.lipFiller.woman1"
+                  | translate
+              }}
+            </h4>
+
+            <!-- Flexbox container for the first row (before and after) -->
+            <div class="flex flex-wrap space-x-4 mb-4">
+              <img
+                src="lipfillerbf1.jpg"
+                alt=""
+                class="max-w-full max-h-64 object-contain rounded-lg"
+              />
+              <img
+                src="lipfilleraf1.jpg"
+                alt=""
+                class="max-w-full max-h-64 object-contain rounded-lg"
+              />
+            </div>
+
+            <!-- Flexbox container for the second row (before and after) -->
+            <div
+              class="flex flex-wrap justify-center space-x-4 sm:space-x-0 sm:gap-y-4"
+            >
+              <img
+                src="lipfillerbf2.jpg"
+                alt="Before Image 2"
+                class="w-1/2 max-h-48 object-contain rounded-lg"
+              />
+              <img
+                src="lipfilleraf2.jpg"
+                alt="After Image 2"
+                class="w-1/2 max-h-48 object-contain rounded-lg"
+              />
+            </div>
+          </div>
+
+          <!-- Skin Booster -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.skinBooster.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.skinBooster.description"
+                  | translate
+              }}
+            </p>
+
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.skinBooster.before"
+                  | translate
+              }}
+            </h4>
+            <img
+              src="faceIguess.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+
+            <h4 class="text-lg text-gray-700 mb-4">
+              {{
+                "medicalAestheticServices.services.service4.skinBooster.after"
+                  | translate
+              }}
+            </h4>
+            <img
+              src="face2Iguess.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+
+          <!-- Mesotherapy -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.mesotherapy.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.mesotherapy.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="mesotherapy.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+
+          <!-- Chemical Peels -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.chemicalPeels.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.chemicalPeels.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="chemical_peel.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+
+          <!-- Growth Factor    PRP -  tubes with sth -->
+          <div
+            class="group bg-green-50 p-8 rounded-lg shadow-lg transition-transform transform duration-300 hover:scale-105 hover:shadow-2xl"
+          >
+            <h3
+              class="text-3xl font-medium text-green-700 mb-4 group-hover:text-green-600"
+            >
+              {{
+                "medicalAestheticServices.services.service4.growthFactor.title"
+                  | translate
+              }}
+            </h3>
+            <p class="text-lg text-gray-600 group-hover:text-gray-800">
+              {{
+                "medicalAestheticServices.services.service4.growthFactor.description"
+                  | translate
+              }}
+            </p>
+            <img
+              src="GrowthFactor.jpg"
+              alt=""
+              class="max-w-full max-h-64 object-contain rounded-lg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

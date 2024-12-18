@@ -1,0 +1,38 @@
+/* Slider smooth scrolling effect */
+div[title='EmbedSocial Universal Widget'] {
+    transition: transform 0.5s ease-in-out;
+}
+ /* Stylizacja scrolla */
+ .w-full {
+    scrollbar-width: thin; /* Dla Firefox */
+    scrollbar-color: #4A90E2 #E0F0FF; /* Kolory dla Firefox */
+  }
+
+  /* Stylizacja dla Webkit (Chrome, Safari, Edge) */
+  .w-full::-webkit-scrollbar {
+    width: 8px; /* Szerokość scrolla */
+  }
+
+  .w-full::-webkit-scrollbar-thumb {
+    background-color: #4A90E2; /* Kolor suwaka */
+    border-radius: 10px; /* Zaokrąglenie rogów suwaka */
+    border: 2px solid #E0F0FF; /* Obramowanie wokół suwaka */
+  }
+
+  .w-full::-webkit-scrollbar-track {
+    background-color: #E0F0FF; /* Kolor tła dla toru scrolla */
+    border-radius: 10px; /* Zaokrąglenie rogów toru scrolla */
+  }
+
+  .w-full::-webkit-scrollbar-thumb:hover {
+    background-color: #357ABD; /* Kolor suwaka przy najechaniu */
+  }
+  body {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  body.loaded {
+    opacity: 1;
+  }
+  

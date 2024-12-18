@@ -1,0 +1,373 @@
+{
+  "team": {
+    "section_title": "Ontmoet Ons Team",
+    "section_description": "Wij zijn een team van toegewijde professionals die samenwerken om zorg en diensten van hoge kwaliteit te leveren. Maak kennis met de experts die u helpen op uw reis naar een betere gezondheid en welzijn.",
+    "member1": {
+      "name": "Desirée González Bossaers",
+      "title": "Directeur & Podotherapeut",
+      "description": "Dr. Desirée González Bossaers studeerde podologie aan de Universiteit van Málaga, waar ze in 2013 afstudeerde. Zowel tijdens als na haar opleiding is ze gespecialiseerd in voetchirurgie en heeft ze verschillende aanvullende cursussen gevolgd om zich verder te bekwamen in verschillende vakgebieden, waaronder de zorg voor diabetische voeten, infiltraties, prp-behandelingen en kinderbehandelingen."
+    },
+    "member2": {
+      "name": "Olga Golovacheva",
+      "title": "Fysiotherapeut",
+      "description": "Hallo. Mijn naam is Olga Golovacheva, oorspronkelijk uit Rusland, en ik ben fysiotherapeut. Ik ben afgestudeerd aan de universiteit van Malaga, met als specialisatie neurologische fysiotherapie. Ik hou van mijn vak omdat revalidatie en fysiotherapie niet alleen een behandeling voor patiënten zijn, maar ook een manier om patiënten te helpen en aan te moedigen om te herstellen op fysiek, maar ook fysiologisch en sociaal niveau."
+    },
+        "member3": {
+          "name": "Berta Ramírez",
+          "title": "Verpleegster",
+          "description": "Hallo iedereen, mijn naam is Berta Ramirez en ik ben verpleegkundige. Ik ben afgestudeerd aan de Universiteit van Granada en een jaar later ben ik begonnen als Dermoesthetisch Verpleegkundige. Mijn doel is om te zorgen voor uw verpleegkundige behoeften en het uiterlijk van uw huid te verbeteren op een evenwichtige manier. Ik wil heel graag mijn persoonlijke diensten aanbieden, uw vragen en twijfels oplossen en u helpen om een beetje gelukkiger te zijn."
+        },
+        "member4": {
+          "name": "Leonor Buitrago",
+          "title": "Logopedist",
+          "description": "Hallo! Mijn naam is Leonor Buitrago en ik ben logopedist. Ik ben afgestudeerd aan de faculteit van Málaga en zit al 15 jaar in dit prachtige vak. Ik ben gespecialiseerd in communicatie-, taal-, spraak- en stemstoornissen en slikstoornissen. En wat ik het leukste vind aan mijn werk is het zien verbeteren van mijn patiënten en de persoonlijke band die met elk van hen ontstaat."
+        }
+      
+    },    "services": {
+        "section_title": "Onze diensten",
+        "section_description": "We bieden een breed scala aan gespecialiseerde diensten om tegemoet te komen aan uw gezondheidsbehoeften. Hieronder vindt u een overzicht van elk gebied en kunt u de diensten verkennen die in elk gebied worden aangeboden.",
+        "podology": {
+          "title": "Podologie",
+          "description": "Podologie richt zich op de verzorging en behandeling van de voeten en biedt diensten om aandoeningen zoals likdoorns, harde huid en verrucae aan te pakken.Onze specialisten zorgen ervoor dat uw voeten gezond en goed onderhouden zijn."
+        },
+"nursing": {
+          "title": "Verpleging",
+          "description": "Onze verpleegkundige diensten omvatten een breed spectrum aan zorg, waaronder wondverzorging, bloedafname, injectables en dermoesthetische behandelingen.We zijn er om u het hoogste niveau van zorg en ondersteuning te bieden."
+        
+},
+        "physiotherapy": {
+          "title": "Fysiotherapie",
+          "description": "Fysiotherapie is essentieel voor revalidatie, pijnbestrijding en herstel van blessures. Wij bieden verschillende behandelingen zoals manuele therapie, oefentherapie en neurorevalidatie."
+        },
+        "logopedia": {
+          "title": "Logopedia",
+          "description": "Logopedia richt zich op de diagnose en behandeling van spraak- en taalstoornissen. Onze diensten omvatten therapie voor afasie, cognitieve stoornissen en pediatrische spraakontwikkeling."
+        }
+      
+    },
+     
+    "reviews": {
+      "section_title": "Hoor wat onze klanten over ons te zeggen hebben",
+      "section_description": "De tevredenheid van onze klanten is onze prioriteit. Bekijk enkele van hun ervaringen!"
+    },
+    
+    
+      "hero": {
+        "title": "Podologie en meer bij La Carihuela",
+        "description":
+      
+"Onze diensten op het gebied van podotherapie, fysiotherapie, verpleging, logopedie en meer. Zorg samen met ons voor uw gezondheid!"
+},
+      "home_services": {
+        "section_title": "Onze diensten",
+        "service1":{
+          "name": "Podologie",
+          "description": "Gespecialiseerde zorg voor uw voeten, het voorkomen en behandelen van allerlei soorten problemen."
+        },
+        "service2": {
+          "name": "Verpleging",
+          "description": "Het verlenen van professionele verpleegkundige zorg om het welzijn te verbeteren."
+        },
+        "service3": {
+          "name": "Fysiotherapie",
+          "description": "Verbetering van mobiliteit en kracht door gerichte fysiotherapiebehandelingen."
+        },
+        "service4": {
+          "name": "Logopedie",
+          "description": "Hulp bij communicatievaardigheden en -stoornissen."
+        }
+      },
+       "contact": {
+  "section_title": "Neem contact op",
+  "section_description": "We zijn hier om te helpen! Neem contact met ons op voor vragen of afspraken.",
+  "info_title": "Contactgegevens",
+  "phone1": "Phone 1:",
+  "phone2": "Phone 2: ",
+  "email": "Email: ",
+  "address": "Adres: "
+},
+"podiatryServices": {
+  "overview": {
+    "title": "Podotherapiediensten",
+    "description": "Wij bieden een verscheidenheid aan podotherapeutische diensten om u te helpen gezonde voeten te houden en eventuele voetproblemen te overwinnen."
+  },
+  "services": {
+    "service1": {
+      "title": "Chiropody",
+      "description": "Chiropody diensten om veelvoorkomende voetproblemen aan te pakken en te zorgen voor een goede verzorging.",
+      "corns": {
+        "title": "Likdoorns",
+        "description": "Een probleem dat wordt veroorzaakt door de ophoping van keratine door overdruk op de voet of wrijving, en ze kunnen vrij diep zijn. Ze zitten meestal op de voetzool of op de tenen. De behandeling bestaat uit het verwijderen ervan."
+      },
+      "hardSkin": {
+        "title": "Harde Huid",
+        "description": "Dit is een huidaandoening die wordt veroorzaakt door verdikking van de huid door een te grote hoeveelheid keratine. Het ontstaat op de delen van de voet waar de meeste druk wordt uitgeoefend tijdens het lopen. Op de hielen kan het, bij gebrek aan verzorging, uitgroeien tot diepe en pijnlijke barsten die moeilijk te verwijderen zijn. De behandeling is gebaseerd op het verwijderen ervan, regelmatige hydratatie van de voeten, goed schoeisel en eventueel het gebruik van inlegzolen."
+      },
+      "verrucae": {
+        "title": "Verrucae",
+        "description": "Veroorzaakt door HPV (humaan papillomavirus). Het virus dringt de huid binnen en veroorzaakt een ronde zweer die erg pijnlijk is als er druk op wordt uitgeoefend. Dit komt vaker voor bij kinderen dan bij volwassenen en vereist voortdurende professionele behandeling om er vanaf te komen."
+      },
+      "painfulIngrowingNails": {
+        "title": "Pijnlijke en ingroeiende nagels",
+        "description": "Een aandoening die pijn veroorzaakt wanneer nagels tegen de huid drukken, vaak als gevolg van strakke schoenen of verkeerd knippen van de nagels."
+      }
+  },
+  "service2": {
+    "title": "Nagelbehandelingen"
+  },
+  "service2_1": {
+    "title": "Nagelbehandelingen",
+    "description": "Ingroeiende teennagels, een aandoening die pijn veroorzaakt wanneer de nagel tegen de huid drukt. Het kan verschillende oorzaken hebben, zoals het dragen van te kleine schoenen, genetische misvorming van de nagel of nagels die verkeerd zijn geknipt. De behandeling bestaat uit een eenvoudige poliklinische operatie die in de kliniek onder plaatselijke verdoving wordt uitgevoerd."
+  },
+
+  "service2_2": {
+    "title": "Nagel Ablation",
+    "description": "Hamertenen. Misvormingen van de tenen die pijn en ongemak kunnen veroorzaken. Met een eenvoudige techniek worden de tenen teruggeplaatst in een zo comfortabel mogelijke positie."
+  },
+  "service2_3": {
+    "title": "Hallux Abductus Valgus",
+    "description": "Misvorming van de grote teen, ook wel bekend als een bunion. Het is een ingreep die de teen in de juiste stand brengt om het lopen te vergemakkelijken."
+  },
+    "service3": {
+      "title": "Orthopodologie",
+      "description": "Gespecialiseerde diensten voor verbetering van de gezondheid van de voeten.",
+      "customisedInsoles": {
+        "title": "Inlegzolen op maat",
+        "description": "Inlegzolen op maat om het comfort en de ondersteuning van de voet te verbeteren.",
+        "list": [ "Voet- en enkelverstuikingen en sportblessures", "Voetsporen", "Spanning in de voetboog, fasciitis plantaris en bursitis (voetontsteking)", "Metatarsalgie (pijn in de bal van de voet), neuromas en capsulitis", "Platvoeten en hoge wreef" ]
+      },    "siliconeProtheses": {
+        "title": "Siliconenprothesen",
+        "description": "Ze kunnen tijdens het consult op maat worden gemaakt en worden gebruikt om ervoor te zorgen dat de tenen goed uitgelijnd zijn. Het gebruik ervan voorkomt likdoorns en wrijving die pijn kunnen veroorzaken bij het dragen van schoenen. Een goed voorbeeld is het gebruik ervan bij voetafwijkingen en eeltknobbels."
+      }
+    },
+    "service4": {
+      "title": "Fysieke Podologie",
+      "description": [ "- Aanbrengen van preventieve verbanden",
+      "- Aanbrengen van neuromusculaire verbanden",
+       "Dit verbetert, op een niet-invasieve manier:",
+        "- voet- en enkelverstuikingen en sportblessures",
+         "- voetsporen, spanning in de voetzool, fasciitis plantaris en bursitis",
+          "metatarsalgie, neuromas en capsulitis" ]
+    },
+    "service5": {
+      "title": "Infiltraties van corticoïden en collageen",
+      "description": "Dit type infiltraties wordt toegediend aan patiënten met pijnlijke voetklachten. Meestal gebruikt ter verlichting van onder andere fasciitis plantaris, capsulitis en neuroma's, beknelde zenuwen en spierontstekingen."
+    },
+      "service6": {
+                "title": "Pediatrische Podologie",
+                "description": "Een tak van chiropody waar mogelijke aandoeningen worden behandeld die zich kunnen voordoen in de kindertijd. Deze fase begint wanneer ze kruipen tot volwassenheid, wanneer de voet stopt met groeien. Een juiste beoordeling is essentieel, omdat dit het beste moment is om eventueel noodzakelijke correcties aan te brengen."
+              },
+              "service7": {
+                "title": "Sport Podologie",
+                "description": "De impact op de voet tijdens sportactiviteiten is groter dan bij normale, dagelijkse activiteiten. Dit kan invloed hebben op het hele lichaam, vooral op de gewrichten en spieren. Daarom raden we een goede biomechanische diagnose aan om blessures te voorkomen en bestaande blessures te behandelen."
+              },
+             "service8": {
+                "title": "Diabetische Voetzorg",
+                "description": "Diabetespatiënten behoren tot een verhoogde risicogroep. Ze hebben een gebrekkige bloedcirculatie en een gebrek aan gevoeligheid en moeten daarom regelmatig op controle bij de pedicure om eventuele veranderingen te controleren."
+              },
+              "service8_5": {
+                  "title": "Na 5 dagen"
+                },
+                "service8_10": {
+                  "title": "After 10 Days"
+                },
+                "service9": {
+                  "title": "Reumatische Voetzorg",
+                  "description": "Reumatoïde artritis veroorzaakt slijtage van de gewrichten met ontstekingen in deze gebieden. Deze slijtage veroorzaakt pijn en problemen bij het lopen. In onze kliniek hebben we behandelingen beschikbaar om deze symptomen te verminderen en de kwaliteit van leven te verbeteren voor mensen die aan deze aandoening lijden."
+                },
+                "service10": {
+                  "title": "Voetreflexologie",
+                  "description": "Dateert van 5000 jaar geleden in het oude Egypte, waar voetmassage werd gebruikt om ziekten te genezen en voor ontspanning. Reflexologie is een aanvullende therapie gebaseerd op de wetenschap van het gebruik van acupressuurpunten op de voeten. Het kan samen met elke medische behandeling worden beoefend of, als een goede manier om gezond te blijven, en kan veel gezondheidsklachten verbeteren, zoals rug-, long-, darm- en leverproblemen."
+                }
+              }
+            }
+          
+  ,
+  
+  "logopedia": {
+    "title": "Diensten voor spraak- en taalstoornissen",
+    "description": "Onze uitgebreide logopedische diensten zijn ontworpen om mensen te helpen die een breed scala aan communicatie-uitdagingen ervaren. Van het aanpakken van spraak- en taalstoornissen tot slikproblemen, wij bieden op maat gemaakte en evidence-based behandelplannen die tegemoet komen aan de unieke behoeften van elke cliënt, het bevorderen van betere communicatie en algehele kwaliteit van leven.",
+    "services": {
+      "service1": {
+        "title": "Lees- en Schrijfstoornissen",
+        "description": "Gespecialiseerde therapie gericht op het aanpakken van problemen met begrijpend lezen, schriftelijke expressie en andere taalgerelateerde vaardigheden. Onze programma's maken gebruik van gestructureerde en door onderzoek ondersteunde technieken om geletterdheid te verbeteren, zelfvertrouwen op te bouwen en academisch succes te ondersteunen."
+      },
+      "service2": {
+        "title": "Afasie",
+        "description": "Uitgebreide behandeling voor taalstoornissen als gevolg van hersenletsel, zoals beroertes. Onze therapieën zijn erop gericht om de spraak te herstellen, het begrip te verbeteren en de algehele communicatievaardigheden te verbeteren door middel van gerichte oefeningen en aanpassingsstrategieën die zijn afgestemd op de behoeften van elk individu."
+      },
+      "service3": {
+        "title": "Atypisch Slikken",
+        "description": "Therapieën ontworpen om slikstoornissen aan te pakken, zodat personen veilig en comfortabel kunnen eten en drinken. We bieden gepersonaliseerde programma's die beoordeling, revalidatietechnieken en strategieën voor langetermijnverbetering van de slikfunctie omvatten."
+      },
+      "service4": {
+        "title": "Myofunctionele Therapie",
+        "description": "Een gespecialiseerde aanpak gericht op het verbeteren van de mond- en gezichtsspierfunctie. Deze therapie richt zich op problemen zoals een onjuiste tonghouding, onjuiste slikpatronen en spraakproblemen om een optimale mondontwikkeling en algehele communicatie te ondersteunen."
+      },
+      "service5": {
+        "title": "Kinderlogopedie",
+        "beschrijving": "Toegewijde logopedische diensten voor kinderen, gericht op het verbeteren van hun spraakhelderheid, taalbegrip en communicatievaardigheden. Onze kindvriendelijke methoden zijn ontworpen om ontwikkelingsachterstanden aan te pakken en jonge mensen te voorzien van essentiële communicatievaardigheden."
+      },
+      "service6": {
+        "title": "Cognitieve Achterstand",
+        "description": "Therapieën op maat om mensen met cognitieve beperkingen te helpen bij het verbeteren van hun communicatie- en taalfuncties. We passen evidence-based interventies toe om het geheugen, de aandacht en het probleemoplossend vermogen te versterken, waardoor de algehele cognitieve en communicatieve prestaties verbeteren."
+      }
+    }
+  
+  
+            },
+            "physiotherapy": {
+              "title": "Fysiotherapiediensten",
+              "description": "Onze fysiotherapiediensten zijn gericht op het ondersteunen van herstel, het beheersen van pijn en het verbeteren van mobiliteit door middel van evidence-based praktijken. Elke behandeling is afgestemd op de unieke behoeften van onze cliënten en helpt hen een optimale lichamelijke gezondheid en welzijn te bereiken.",
+              "services": {
+                "service1": {
+                  "title": "Behandeling van de Wervelkolom",
+                  "description": "Uitgebreide therapieën gericht op het verlichten van rugpijn, het verbeteren van de uitlijning van de wervelkolom en het herstellen van flexibiliteit. Onze behandelingen zijn gericht op aandoeningen zoals hernia's, chronische rugpijn en onevenwichtigheden in de lichaamshouding."
+                },
+                "manualTherapy": {
+                  "title": "Manuele Therapie",
+                  "massage": {
+                    "title": "Massage",
+                    "description": "Therapeutische massagetechnieken om spierspanning te verlichten, stress te verminderen en de natuurlijke genezingsprocessen van het lichaam te verbeteren door de bloedcirculatie en flexibiliteit te verbeteren."
+                  },
+                  "mobilizations": {
+                    "title": "Mobilisaties",
+                    "description": "Zachte gewrichtsmobilisatietechnieken gericht op het herstellen van de functionaliteit van gewrichten, het verlichten van pijn en het verbeteren van de algehele mobiliteit en het bewegingsbereik."
+                  },
+                  "neuroMuscularTechnique": {
+                    "title": "Neuro-Musculaire Techniek",
+                    "description": "Een gerichte aanpak om spieronevenwichtigheden aan te pakken, zenuwgerelateerde beperkingen te verminderen en de neuromusculaire coördinatie te verbeteren voor betere fysieke prestaties."
+                  }
+                },
+                "service3": {
+                  "title": "Behandeling van Tendonitis en Artrose",
+                  "description": "Gespecialiseerde behandelingen om ontstekingen te beheersen, pijn te verlichten en de gewrichtsfunctie te herstellen. Deze therapieën zijn op maat gemaakt om cliënten te helpen hun mobiliteit terug te krijgen en ongemak bij dagelijkse activiteiten te verminderen."
+                },
+                "service4": {
+                  "title": "Looprevalidatie",
+                  "description": "Individuele therapieën gericht op het verbeteren van looppatronen, het verbeteren van het evenwicht en het herstellen van vertrouwen in mobiliteit. Deze service is met name nuttig voor mensen die herstellen van blessures of neurologische aandoeningen."
+                },
+                "service5": {
+                  "title": "Revalidatie fijne motoriek",
+                  "description": "Revalidatieprogramma's gericht op het verbeteren van hand- en vingercoördinatie, behendigheid en kracht. Ideaal voor mensen die herstellen van blessures of neurologische aandoeningen die van invloed zijn op de fijne motoriek."
+                },
+                "service6": {
+                  "title": "Neurorevalidatie",
+                  "description": "Uitgebreide revalidatie voor personen met neurologische aandoeningen zoals een beroerte, multiple sclerose of de ziekte van Parkinson. Deze therapieën zijn gericht op het verbeteren van de mobiliteit, kracht en algehele kwaliteit van leven."
+                },
+                "service7": {
+                  "title": "Fysiotherapie voor Temporo Mandibulair Gewricht",
+                  "description": "Gespecialiseerde behandelingen voor kaakgerelateerde aandoeningen, gericht op pijnverlichting, verbeterde kaakfunctie en verbeterde kwaliteit van leven voor mensen die lijden aan temporomandibulaire aandoeningen."
+                },
+                "service8": {
+                  "title": "Oefentherapie",
+                  "description": "Gepersonaliseerde oefenprogramma's ontworpen om herstel te ondersteunen, kracht op te bouwen en flexibiliteit te verbeteren. Deze plannen zijn afgestemd op individuele doelen en fysieke mogelijkheden."
+                },
+                "service9": {
+                  "title": "Kinderfysiotherapie",
+                  "description": "Gespecialiseerde therapieën ontworpen om de fysieke ontwikkeling en mobiliteit van kinderen te ondersteunen. Deze diensten richten zich op een breed scala aan aandoeningen en bevorderen een gezonde groei en verbeterde motorische vaardigheden."
+                },
+                "service10": {
+                  "title": "Bekkenbodemfysiotherapie",
+                  "description": "Gerichte behandelingen om de gezondheid van de bekkenbodem te verbeteren, waarbij problemen zoals incontinentie, bekkenpijn en herstel na de bevalling worden aangepakt door middel van op maat gemaakte oefeningen en technieken."
+                }
+              }
+            }
+
+            , 
+
+            "medicalAestheticServices": {
+              "overview": {
+                "title": "Verpleegkundige Diensten",
+                "description": "Onze verpleegkundige diensten zijn ontworpen om de gezondheid van de huid en het algehele uiterlijk te verbeteren door middel van geavanceerde, op bewijs gebaseerde behandelingen. We bieden gepersonaliseerde oplossingen voor een breed scala aan esthetische en dermatologische problemen en zorgen zo voor optimale resultaten en klanttevredenheid."
+              },
+              "services": {
+                "service1": {
+                  "title": "Bloed extractie en analyse",
+                  "description": "Nauwkeurige diagnostische procedures die vitale gezondheidsinzichten bieden. Deze diensten helpen bij vroegtijdige opsporing, bewaken lopende aandoeningen en ondersteunen het opstellen van nauwkeurige behandelplannen voor betere resultaten."
+                },
+                "service2": {
+                  "title": "Wondverzorging",
+                  "description": "Gespecialiseerde behandelingen gericht op het bevorderen van een snelle en effectieve wondgenezing. Onze aangepaste benaderingen minimaliseren infectierisico's en ondersteunen optimaal weefselherstel."
+                },
+                "service3": {
+                  "title": "Hechtingen",
+                  "description": "Geavanceerde wondsluitingstechnieken die zijn ontworpen om een effectieve genezing te garanderen en littekenvorming te minimaliseren. Onze professionele methoden bieden zowel functionele als esthetische voordelen voor diverse verwondingen."
+                },
+                "service4": {
+                  "title": "Dermoesthetische behandelingen",
+                  "description": "Geavanceerde huidverjongingsdiensten die zijn ontworpen om de textuur, teint en het uiterlijk van de huid te verbeteren. Deze behandelingen zijn gericht op het verbeteren van de natuurlijke schoonheid en het herstellen van de jeugdige vitaliteit.",
+                  "injectables": {
+                    "title": "Injectables",
+                    "description": "Niet-invasieve procedures zoals Botox en fillers die rimpels effectief verminderen, gezichtscontouren verbeteren en zorgen voor een verfrist uiterlijk.",
+                    "before": "Voor de behandeling: ",
+                    "after": "Na 4 dagen: ",
+                    "after2": "Na 1 week: "
+                  },
+                  "lipFiller": {
+                    "title": "Lip Filler",
+                    "description": "Behandelingen op maat om het volume, de vorm en de symmetrie van de lippen te verbeteren, met natuurlijke en langdurige resultaten.",
+                    "woman1": "Vergelijking voor en na de behandeling: "
+                  },
+                  "skinBooster": {
+                    "title": "Skin Booster",
+                    "description": "Innovatieve hydratatiebehandelingen ontworpen om de elasticiteit, gladheid en glans van de huid te verbeteren. Perfect voor het bereiken van een stralende en verjongde teint.",
+                    "before": "Voor de behandeling: ",
+                    "after": "Na de behandeling: "
+                  },
+                  "mesotherapy": {
+                    "title": "Mesotherapie",
+                    "description": "Een verjongende procedure met injecties die rijk zijn aan voedingsstoffen die de huid strakker maken, hydrateren en revitaliseren, wat resulteert in een jeugdiger en frisser uiterlijk."
+                  },
+                  "chemicalPeels": {
+                    "title": "Chemische Peels",
+                    "description": "Effectieve peelingbehandelingen die huidoneffenheden aanpakken, zoals een ongelijkmatige textuur, hyperpigmentatie en acnelittekens, waardoor de huid gladder en stralender wordt."
+                  },
+                  "growthFactor": {
+                    "title": "Groeifactor",
+                    "description": "Geavanceerde behandelingen die celherstel en regeneratie stimuleren, waardoor de elasticiteit, textuur en algehele vitaliteit van de huid worden verbeterd voor een jeugdige gloed."
+                  }
+                }
+              }
+            }
+            
+            
+            ,
+            
+            
+  "header": {
+"home": "Home",
+"services": "Diensten ",
+"podology": "Podology",
+"nursing": "Verpleging",
+"physiotherapy": "Fysiotherapie",
+"logopedia": "Logopedia",
+"team": "Team",
+"contact": "Contact",
+"reviews": "Beoordelingen",
+"language": "Language",
+"english": "Engels ",
+"spanish": "Spaans ",
+"french": "Frans",
+"german": "Duits ",
+"dutch": "Nederlands "
+},
+
+"footer": {
+"menu": "Menu",
+"home": "Home",
+"services": "Diensten ",
+"team": "Team",
+"contact": "Contact",
+"reviews": "Beoordelingen",
+"contactUs": "ContactUs",
+"followUs": "Follow Us",
+"copyright": "© 2024 Podologia La Carihuela. Alle rechten voorbehouden."
+}, 
+
+"contactsection":{
+  "description": "Voel je vrij om contact op te nemen voor een afspraak! ",
+  "contactus": "Neem contact met ons op!"
+}
+}
+

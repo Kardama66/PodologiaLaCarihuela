@@ -1,0 +1,29 @@
+.icon {
+    width: 16px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  /* Class for hidden menu */
+.none {
+    display: none !important;
+  }
+  
+  .block {
+    display: block !important;
+    transition: opacity 1s ease-in-out;
+  }
+  
+
+  .block.fade-in {
+    opacity: 1;
+  }
+  
+  .none {
+    opacity: 0;
+  }
+  /* Active link styles */
+.active {
+    color: #007bff;  /* Blue color */
+    font-weight: bold;
+  }
+  

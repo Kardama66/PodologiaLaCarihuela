@@ -1,0 +1,367 @@
+{
+  "team": {
+    "section_title": "Conoce a nuestro equipo",
+    "section_description": "Somos un equipo de profesionales dedicados que trabajan juntos para proporcionar atención y servicios de alta calidad. Conozca a los expertos que le ayudarán en su viaje hacia una mejor salud y bienestar.",
+    "member1": {
+      "name": "Desirée González Bossaers",
+      "title": "Directora y Podóloga",
+      "description": "La Dra. Desirée González Bossaers estudió Podología en la Universidad de Málaga, donde se licenció en 2013. Tanto durante como después de su formación, se especializó en cirugía del pie y realizó varios cursos adicionales para ampliar sus estudios en diferentes campos, incluyendo el cuidado del pie diabético, infiltraciones, tratamientos prp y tratamientos infantiles."
+    },
+    "member2": {
+      "name": "Olga Golovacheva",
+      "title": "Fisioterapeuta",
+      "description": "Hola. Mi nombre es Olga Golovacheva, originaria de Rusia, y soy fisioterapeuta. Me licencié en la Universidad de Málaga, especializándome en fisioterapia neurológica. Me encanta mi profesión, ya que la rehabilitación y la fisioterapia no son sólo un tratamiento para los pacientes, sino también una forma de ayudar y animar a los pacientes a recuperarse a nivel físico, pero también fisiológico y social."
+    },
+    "member3": {
+      "name": "Berta Ramírez",
+      "title": "Enfermera",
+      "description": "Hola a todos, me llamo Berta Ramírez y soy enfermera. Me licencié en la Universidad de Granada y un año después, me metí en Enfermería Dermoestética. Mi objetivo es atender tus necesidades de enfermería y mejorar el aspecto de tu piel de forma equilibrada. Tengo muchas ganas de ofrecerte mis servicios personalizados, poder resolver tus dudas y preguntas y ayudarte a ser un poco más feliz."
+    },
+    "member4": {
+      "name": "Leonor Buitrago",
+      "title": "Logopeda",
+      "description": "¡Hola! Mi nombre es Leonor Buitrago y soy Logopeda. Me licencié en la Facultad de Málaga y llevo 15 años en esta maravillosa profesión. Estoy especializada en trastornos de la comunicación, el lenguaje, el habla y la voz; así como en trastornos de la deglución. Y lo que más disfruto de mi trabajo es ver mejorar a mis pacientes y el vínculo personal que se crea con cada uno de ellos."
+    }
+  },
+
+  "services": {
+    "section_title": "Nuestros servicios",
+    "section_description": "Ofrecemos una amplia gama de servicios especializados para atender sus necesidades de salud. A continuación encontrará una descripción general de cada campo y podrá explorar los servicios que se ofrecen en cada uno de ellos.",
+    "podology": {
+      "title": "Podología",
+      "description": "La podología se centra en el cuidado y tratamiento de los pies, ofreciendo servicios para tratar afecciones como callos, durezas y verrugas. Nuestros especialistas se aseguran de que tus pies estén sanos y bien cuidados."
+    },
+    "nursing": {
+      "title": "Enfermería",
+      "description": "Nuestros servicios de enfermería abarcan un amplio espectro de cuidados, incluyendo cuidado de heridas, extracción de sangre, inyectables y tratamientos dermoestéticos. Estamos aquí para proporcionarle el más alto nivel de atención y apoyo."
+    },
+    "fisioterapia": {
+      "title": "Fisioterapia",
+      "description": "La fisioterapia es esencial para la rehabilitación, el control del dolor y la recuperación de lesiones. Ofrecemos diversos tratamientos como terapia manual, terapia de ejercicios y neurorehabilitación."
+    },
+    "logopedia": {
+      "title": "Logopedia",
+      "description": "Logopedia se centra en el diagnóstico y tratamiento de los trastornos del habla y del lenguaje. Nuestros servicios incluyen terapia para afasia, déficits cognitivos y desarrollo pediátrico del habla."
+    }
+  },
+
+  "reviews": {
+    "section_title": "Escucha lo que nuestros clientes tienen que decir sobre nosotros",
+    "section_description": "La satisfacción de nuestros clientes es nuestra prioridad. Echa un vistazo a algunas de sus experiencias!"
+  },
+
+  "hero": {
+    "title": "Podología y más en La Carihuela",
+    "description": "Nuestros servicios de podología, fisioterapia, enfermería, logopedia y más. Cuida tu salud con nosotros!"
+  },
+  "home_services": {
+    "section_title": "Nuestros Servicios",
+    "service1": {
+      "name": "Podología",
+      "description": "Cuidado especializado de tus pies, previniendo y tratando todo tipo de problemas"
+    },
+    "service2": {
+      "name": "Enfermería",
+      "description": "Prestación de cuidados profesionales de enfermería para mejorar el bienestar"
+    },
+    "service3": {
+      "name": "Fisioterapia",
+      "description": "Mejora de la movilidad y la fuerza mediante tratamientos de fisioterapia específicos"
+    },
+    "service4": {
+      "name": "Logopedia",
+      "description": "Ayuda con las habilidades y trastornos de la comunicación"
+    }
+  },
+  "contact": {
+    "section_title": "Ponte en contacto",
+    "section_description": "¡Estamos aquí para ayudar! Contacta con nosotros para consultas o citas.",
+    "info_title": "Información de contacto",
+    "phone1": "Teléfono 1: ",
+    "phone2": "Teléfono 2 ",
+    "email": "Email: ",
+    "address": "Dirección: "
+  },
+  "podiatryServices": {
+    "overview": {
+      "title": "Servicios de podología",
+      "description": "Ofrecemos una variedad de servicios de podología para ayudarle a mantener los pies sanos y superar cualquier problema en los pies."
+    },
+    "services": {
+      "service1": {
+        "title": "Podología",
+        "description": "Servicios de podología para tratar problemas comunes de los pies y garantizar un cuidado adecuado",
+        "corns": {
+          "title": "Callos",
+          "description": "Problema causado por la acumulación de queratina por sobrepresión en el pie o roce, y pueden ser bastante profundos. Normalmente se encuentran en la planta del pie o en los dedos. El tratamiento consiste en eliminarlas"
+        },
+        "hardSkin": {
+          "title": "Piel Dura",
+          "description": "Se trata de un trastorno cutáneo causado por el engrosamiento de la piel debido a una cantidad excesiva de queratina. Se desarrolla en las zonas del pie que sufren más presión al caminar. En los talones, con falta de cuidados, puede convertirse en grietas profundas y dolorosas, difíciles de eliminar. El tratamiento se basa en su eliminación, la hidratación regular de los pies, un calzado adecuado y el posible uso de plantillas."
+        },
+
+        "verrucae": {
+          "title": "Verrucae",
+          "description": "Causadas por el VPH (virus del papiloma humano). El virus penetra en la piel, provocando una llaga redonda, muy dolorosa cuando se ejerce presión sobre ella.Es más común en niños que en adultos, y requiere un tratamiento profesional continuo para deshacerse de ella."
+        },
+        "painfulIngrowingNails": {
+          "title": "Uñas dolorosas y encarnadas",
+          "description": "Afección que causa dolor cuando las uñas presionan contra la piel, a menudo debido a zapatos apretados o a un corte incorrecto de las uñas."
+        }
+      },
+      "service2": {
+        "title": "Tratamientos de uñas"
+      },
+      "service2_1": {
+        "title": "Tratamientos de uñas",
+        "description": "Uñas encarnadas en los dedos de los pies, una afección que causa dolor cuando la uña presiona contra la piel. Puede deberse a varias causas, como el uso de zapatos demasiado pequeños, una malformación genética de la uña o un corte incorrecto de las uñas. El tratamiento consiste en una operación sencilla, realizada en la clínica con anestesia local, en régimen ambulatorio."
+      },
+
+      "service2_2": {
+        "title": "Ablación de uñas",
+        "description": "Dedos en martillo.Deformidades de los dedos de los pies que pueden causar dolor y molestias.Con una sencilla técnica los dedos serán recolocados en la posición más cómoda posible."
+      },
+      "service2_3": {
+        "title": "Hallux Abductus Valgus",
+        "description": "Deformidad del dedo gordo del pie, también conocida como juanete. Es un procedimiento que colocará el dedo del pie en la alineación correcta para facilitar la marcha."
+      },
+      "service3": {
+        "title": "Ortopodología",
+        "description": "Servicios especializados para la mejora de la salud de los pies",
+        "customisedInsoles": {
+          "title": "Plantillas a medida",
+          "description": "Plantillas a medida para mejorar la comodidad y la sujeción del pie",
+          "list": [
+            "Esguinces de pie y tobillo, y lesiones deportivas",
+            "Espolones del pie",
+            "Tensión en el arco del pie, fascitis plantar y bursitis (inflamación del pie)",
+            "Metatarsalgia (dolor en la bola del pie), neuromas y capsulitis",
+            "Pies planos y empeines altos"
+          ]
+        },
+        "siliconeProtheses": {
+          "title": "Prótesis de silicona",
+          "description": "Se pueden hacer a medida durante la consulta, y se utilizan para que los dedos de los pies estén correctamente alineados. Su uso evita callos y rozaduras que pueden causar dolor al llevar zapatos.Un buen ejemplo es su uso para deformidades del pie y juanetes."
+        }
+      },
+      "service4": {
+        "title": "Podología Física",
+        "description": [
+          "- Aplicación de vendajes preventivos",
+          "- Aplicación de vendajes neuromusculares",
+          "Mejora, de forma no invasiva:",
+          "- Esguinces de pie y tobillo y lesiones deportivas",
+          "- Espolones del pie, tensión en la planta del pie, fascitis plantar y bursitis",
+          "- Metatarsalgia, neuromas y capsulitis"
+        ]
+      },
+      "service5": {
+        "title": "Infiltraciones de corticoides y colágeno",
+        "description": "Este tipo de infiltraciones se administrarán a pacientes con dolencias en los pies. Se utilizan principalmente para el alivio de la fascitis plantar, capsulitis y neuromas, nervios atrapados e inflamación de los músculos entre otras afecciones."
+      },
+      "service6": {
+        "title": "Podología pediátrica",
+        "description": "Rama de la podología donde se tratan las posibles afecciones que pueden aparecer en la infancia.Esta etapa comienza desde que gatean hasta la edad adulta, cuando el pie deja de crecer. Es fundamental una correcta valoración, ya que es el mejor momento para realizar las correcciones necesarias."
+      },
+      "service7": {
+        "title": "Podología Deportiva",
+        "description": "El impacto sobre el pie durante las actividades deportivas, es mayor que con las actividades normales y cotidianas.Esto puede afectar a todo el cuerpo, especialmente a las articulaciones y los músculos. Por ello, es recomendable un buen diagnóstico biomecánico para prevenir lesiones y tratar las ya existentes."
+      },
+      "service8": {
+        "title": "Cuidado del Pie Diabético",
+        "description": "Los pacientes diabéticos pertenecen a un grupo de riesgo elevado. Tienen una circulación sanguínea deficiente y una falta de sensibilidad, por lo que deben someterse a revisiones periódicas en el podólogo, para controlar cualquier cambio."
+      },
+      "service8_5": {
+        "title": "Después de 5 días"
+      },
+      "service8_10": {
+        "title": "Después de 10 días"
+      },
+      "service9": {
+        "title": "Cuidados reumáticos del pie",
+        "description": "La artritis reumatoide provoca un desgaste de las articulaciones con inflamación en estas zonas. Este desgaste provoca dolor y problemas al caminar. En nuestra clínica disponemos de tratamientos para reducir estos síntomas y mejorar la calidad de vida de quienes padecen esta enfermedad."
+      },
+      "service10": {
+        "title": "Reflexología Podal",
+        "description": "Se remonta a hace 5000 años en el antiguo Egipto, donde el masaje de pies se utilizaba para curar enfermedades y para la relajación. La reflexología es una terapia complementaria basada en la ciencia de utilizar los puntos de acupresión de los pies.Se puede practicar junto con cualquier tratamiento médico o, como una buena forma de mantenerse en buena salud, y puede mejorar muchas condiciones de salud, como problemas de espalda, pulmón, intestino e hígado."
+      }
+    }
+  },
+  "logopedia": {
+    "title": "Servicios de trastornos del habla y del lenguaje",
+    "description": "Nuestros servicios integrales de terapia del habla están diseñados para ayudar a las personas que experimentan una amplia gama de desafíos de comunicación. Desde abordar las deficiencias del habla y el lenguaje hasta las dificultades para tragar, ofrecemos planes de tratamiento personalizados y basados en la evidencia que se adaptan a las necesidades únicas de cada cliente, promoviendo una mejor comunicación y calidad de vida en general.",
+    "services": {
+      "service1": {
+        "title": "Trastornos de la lectura y la escritura",
+        "description": "Terapia especializada centrada en abordar las dificultades en la comprensión lectora, la expresión escrita y otras habilidades relacionadas con el lenguaje. Nuestros programas emplean técnicas estructuradas y respaldadas por la investigación para mejorar las habilidades de alfabetización, fomentar la confianza y apoyar el éxito académico."
+      },
+      "service2": {
+        "title": "Afasia",
+        "description": "Tratamiento integral de los trastornos del lenguaje derivados de lesiones cerebrales, como los accidentes cerebrovasculares. Nuestras terapias tienen como objetivo restaurar el habla, mejorar la comprensión y mejorar las habilidades de comunicación en general a través de ejercicios específicos y estrategias de adaptación adaptadas a las necesidades de cada individuo."
+      },
+      "service3": {
+        "title": "Deglución atípica",
+        "description": "Terapias diseñadas para abordar los trastornos de la deglución, garantizando que los individuos puedan comer y beber de forma segura y cómoda. Proporcionamos programas personalizados que incluyen evaluación, técnicas de rehabilitación y estrategias para la mejora a largo plazo de la función de deglución."
+      },
+      "service4": {
+        "title": "Terapia miofuncional",
+        "description": "Un enfoque especializado dirigido a mejorar la función muscular oral y facial. Esta terapia aborda problemas como la postura inadecuada de la lengua, los patrones de deglución incorrectos y los desafíos del habla para apoyar el desarrollo oral óptimo y la comunicación en general."
+      },
+      "service5": {
+        "title": "Terapia del habla pediátrica",
+        "description": "Servicios dedicados de terapia del habla para niños, centrados en mejorar su claridad del habla, comprensión del lenguaje y habilidades de comunicación. Nuestros métodos adaptados a los niños están diseñados para abordar los retrasos en el desarrollo y dotar a los individuos jóvenes de habilidades comunicativas esenciales."
+      },
+      "service6": {
+        "title": "Déficit Cognitivo",
+        "description": "Terapias a medida para ayudar a personas con deficiencias cognitivas a mejorar sus funciones de comunicación y lenguaje. Empleamos intervenciones basadas en la evidencia para fortalecer la memoria, la atención y las capacidades de resolución de problemas, fomentando un mejor rendimiento cognitivo y comunicativo general."
+      }
+    }
+  },
+
+  "physiotherapy": {
+    "title": "Servicios de fisioterapia",
+    "description": "Nuestros servicios de fisioterapia tienen como objetivo apoyar la recuperación, controlar el dolor y mejorar la movilidad a través de prácticas basadas en la evidencia. Cada tratamiento se adapta para abordar las necesidades únicas de nuestros clientes, ayudándoles a alcanzar una salud física y un bienestar óptimos.",
+    "services": {
+      "service1": {
+        "title": "Tratamiento de la columna vertebral",
+        "description": "Terapias integrales centradas en aliviar el dolor de espalda, mejorar la alineación de la columna vertebral y restaurar la flexibilidad. Nuestros tratamientos están diseñados para tratar afecciones como hernias discales, dolor de espalda crónico y desequilibrios posturales."
+      },
+      "manualTherapy": {
+        "title": "terapia manual",
+        "massage": {
+          "title": "Masaje",
+          "description": "Técnicas de masaje terapéutico para aliviar la tensión muscular, reducir el estrés y potenciar los procesos naturales de curación del cuerpo mejorando la circulación sanguínea y la flexibilidad."
+        },
+        "mobilizations": {
+          "title": "movilizaciones",
+          "description": "Técnicas suaves de movilización articular destinadas a restablecer la funcionalidad de las articulaciones, aliviar el dolor y mejorar la movilidad general y la amplitud de movimiento."
+        },
+        "neuroMuscularTechnique": {
+          "title": "Técnica NeuroMuscular",
+          "description": "Un enfoque específico para abordar los desequilibrios musculares, reducir las restricciones relacionadas con los nervios y mejorar la coordinación neuromuscular para un mejor rendimiento físico."
+        }
+      },
+      "service3": {
+        "title": "Tratamiento de la tendinitis y la artrosis",
+        "description": "Tratamientos especializados para controlar la inflamación, aliviar el dolor y restaurar la función articular. Estas terapias se adaptan para ayudar a los clientes a recuperar la movilidad y reducir las molestias en las actividades diarias."
+      },
+      "service4": {
+        "title": "Rehabilitación de la marcha",
+        "description": "Terapias individualizadas dirigidas a mejorar los patrones de marcha, mejorar el equilibrio y restaurar la confianza en la movilidad. Este servicio es especialmente beneficioso para quienes se recuperan de lesiones o afecciones neurológicas."
+      },
+      "service5": {
+        "title": "Rehabilitación de la motricidad fina",
+        "description": "Programas de rehabilitación enfocados a mejorar la coordinación, destreza y fuerza de manos y dedos. Ideal para personas que se recuperan de lesiones o afecciones neurológicas que afectan a la motricidad fina."
+      },
+      "service6": {
+        "title": "Neuro rehabilitación",
+        "description": "Rehabilitación integral para personas con afecciones neurológicas como ictus, esclerosis múltiple o enfermedad de Parkinson. Estas terapias tienen como objetivo mejorar la movilidad, la fuerza y la calidad de vida en general."
+      },
+      "service7": {
+        "title": "Fisioterapia de la articulación temporo mandibular",
+        "description": "Tratamientos especializados para afecciones relacionadas con la mandíbula, dirigidos a aliviar el dolor, mejorar la función de la mandíbula y mejorar la calidad de vida de quienes sufren trastornos temporomandibulares."
+      },
+      "service8": {
+        "title": "Terapia de ejercicios",
+        "description": "Programas de ejercicios personalizados diseñados para apoyar la recuperación, aumentar la fuerza y mejorar la flexibilidad. Estos planes se adaptan a los objetivos y capacidades físicas individuales."
+      },
+      "service9": {
+        "title": "Fisioterapia pediátrica",
+        "description": "Terapias especializadas diseñadas para apoyar el desarrollo físico y la movilidad de los niños. Estos servicios abordan una amplia gama de afecciones, promoviendo un crecimiento saludable y la mejora de las habilidades motoras."
+      },
+      "service10": {
+        "title": "Fisioterapia del suelo pélvico",
+        "description": "Tratamientos enfocados a mejorar la salud del suelo pélvico, abordando problemas como la incontinencia, el dolor pélvico y la recuperación postparto mediante ejercicios y técnicas adaptadas."
+      }
+    }
+  },
+
+  "medicalAestheticServices": {
+    "overview": {
+      "title": "Servicios de Enfermería",
+      "description": "Nuestros servicios de enfermería están diseñados para mejorar la salud de la piel y la apariencia general a través de tratamientos avanzados basados en la evidencia. Ofrecemos soluciones personalizadas para abordar una amplia gama de preocupaciones estéticas y dermatológicas, garantizando resultados óptimos y la satisfacción del cliente."
+    },
+    "services": {
+      "service1": {
+        "title": "Extracción y análisis de sangre",
+        "description": "Procedimientos diagnósticos precisos que proporcionan información vital sobre la salud. Estos servicios ayudan a la detección precoz, controlan las afecciones en curso y apoyan la creación de planes de tratamiento precisos para mejorar los resultados."
+      },
+      "service2": {
+        "title": "Cuidado de heridas",
+        "description": "Tratamientos especializados destinados a promover la curación rápida y eficaz de las heridas. Nuestros enfoques personalizados minimizan los riesgos de infección y favorecen una reparación y recuperación óptimas de los tejidos."
+      },
+      "service3": {
+        "title": "Suturas",
+        "description": "Técnicas avanzadas de cierre de heridas diseñadas para garantizar una cicatrización eficaz y minimizar las cicatrices. Nuestros métodos profesionales proporcionan beneficios tanto funcionales como estéticos para diversas lesiones."
+      },
+      "service4": {
+        "title": "Tratamientos Dermoestéticos",
+        "description": "Servicios de rejuvenecimiento cutáneo de última generación diseñados para mejorar la textura, el tono y el aspecto de la piel. Estos tratamientos se centran en realzar la belleza natural y restaurar la vitalidad juvenil.",
+        "injectables": {
+          "title": "Inyectables",
+          "description": "Procedimientos no invasivos como el bótox y los rellenos que reducen eficazmente las arrugas, mejoran el contorno facial y proporcionan un aspecto renovado.",
+          "before": "Antes del tratamiento: ",
+          "after": "Después de 4 días: ",
+          "after2": "Después de 1 semana: "
+        },
+        "lipFiller": {
+          "title": "Lip Filler",
+          "description": "Tratamientos a medida para mejorar el volumen, la forma y la simetría de los labios, proporcionando resultados naturales y duraderos.",
+          "woman1": "Comparación antes y después del tratamiento: "
+        },
+        "skinBooster": {
+          "title": "Skin Booster",
+          "description": "Innovadores tratamientos de hidratación diseñados para mejorar la elasticidad, tersura y luminosidad de la piel. Perfectos para conseguir un cutis resplandeciente y rejuvenecido",
+          "before": "Antes del tratamiento: ",
+          "after": "Después del tratamiento: "
+        },
+        "mesotherapy": {
+          "title": "Mesoterapia",
+          "description": "Procedimiento rejuvenecedor que consiste en inyecciones ricas en nutrientes que tensan, hidratan y revitalizan la piel, dando como resultado un aspecto más joven y fresco."
+        },
+        "chemicalPeels": {
+          "title": "Peelings Químicos",
+          "description": "Tratamientos exfoliantes eficaces que actúan sobre las imperfecciones de la piel, como la textura irregular, la hiperpigmentación y las cicatrices del acné, dejando la piel más suave y luminosa."
+        },
+        "growthFactor": {
+          "title": "Factor de Crecimiento",
+          "description": "Tratamientos avanzados que estimulan la reparación y regeneración celular, mejorando la elasticidad, textura y vitalidad general de la piel para un brillo juvenil."
+        }
+      }
+    }
+  },
+
+  "header": {
+    "home": "Casa",
+    "services": "Servicios",
+    "podology": "Podología",
+    "nursing": "Enfermería",
+    "physiotherapy": "Fisioterapia",
+    "logopedia": "Logopedia",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "reviews": "Reseñas",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español",
+    "french": "Francés",
+    "german": "Alemán",
+    "dutch": "Dutch"
+  },
+
+  "footer": {
+    "menu": "Menú",
+    "home": "Inicio",
+    "services": "servicios",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "reviews": "Reseñas",
+    "contactUs": "Contacto",
+    "followUs": "Síguenos",
+    "copyright": "© 2024 Podología La Carihuela. Todos los derechos reservados"
+  },
+  "contactsection": {
+    "description": "¡No dude en ponerse en contacto para concertar una cita! ",
+    "contactus": " ¡Contáctenos!"
+  }
+}
